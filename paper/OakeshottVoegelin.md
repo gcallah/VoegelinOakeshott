@@ -186,7 +186,7 @@ is to describe the necessary character of politics in its endless
 efforts to preserve and to change; it is not to prescribe courses of
 action" (2024: 152).
 
-\[More materials should be added here.\]
+
 
 Plato: A Common Source
 ----------------------

@@ -9,7 +9,7 @@ Gene Callahan, New York University
 ## I. Philosophy: Experience Without Reservation or Arrest
 
 
-## II. Voegelin on Philosophy
+## II. From Philosophy to Political Philosophy
 
 
 ## III. Pre-Modern Influences
