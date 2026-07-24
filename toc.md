@@ -6,25 +6,25 @@ Gene Callahan, New York University
 ## Introduction
 
 
-## Oakeshott and Voegelin: Parallel Lives
+## I. Oakeshott and Voegelin: Parallel Lives
 
 
-## Oakeshott on Philosophy
+## II. Oakeshott on Philosophy
 
 
-## Voegelin on Philosophy
+## III. Voegelin on Philosophy
 
 
-## The Influence of Plato
+## IV. Pre-Modern Influences
 
 
-## Hobbes: The Fork in the Road
+## V. Hobbes: The Fork in the Road
 
 
-## The Impact on the Politics of Oakeshott and Voegelin
+## VI. The Fork's Impact on the Politics of Oakeshott and Voegelin
 
 
-## For This Is All a Dream We Dreamed One Afternoon Long Ago
+## VII. For This Is All a Dream We Dreamed One Afternoon Long Ago
 
 
 ## Conclusion
