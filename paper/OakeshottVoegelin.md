@@ -449,20 +449,21 @@ is: the "noble lie.")
 
 ## For This Is All a Dream We Dreamed One Afternoon Long Ago
 
-In his brief essay "Leviathan: A Myth," Oakeshott remarks that a civilization is "at bottom a collective dream" (2000:
-159). He continues, "What a people dreams in this earthly sleep is its civilization. And the substance of this dream is
-a myth, an imaginative interpretation of the human experience, the perception (not the solution) of the mystery of human
-life" (2000: 159-160).
-
-This understanding is very close to Voegelin's in *The New Science of Politics*, where he notes that "Human society...
-is a whole little world, a cosmion, illuminated with meaning from within by the human beings who continuously create
-and bear it as the mode and condition of their self realization" (2000d: 109).
-
-Indeed, Voegelin states that "At the border of transcendence the language of philosophical anthropolgy must become the
-language of religious symbolization" (2000b: 419), in other words, myth. And he notes how, in the wake of the Macedonian
-conquests, the Greek poleis were "societies that had lost their myth" (2000b: 422).
-
-Oakeshott goes on to describe the nature and novelty of the Hobbesian myth:
+In his brief essay "Leviathan: A Myth," Oakeshott remarks that a civilization
+is "at bottom a collective dream" (2000: 159). He continues, "What a people
+dreams in this earthly sleep is its civilization. And the substance of this
+dream is a myth, an imaginative interpretation of the human experience, the
+perception (not the solution) of the mystery of human life" (2000: 159-160).
+This understanding is very close to Voegelin's in *The New Science of
+Politics*, where he notes that "Human society...  is a whole little world, a
+cosmion, illuminated with meaning from within by the human beings who
+continuously create and bear it as the mode and condition of their self
+realization" (2000d: 109).  Indeed, Voegelin states that "At the border of
+transcendence the language of philosophical anthropolgy must become the
+language of religious symbolization" (2000b: 419), in other words, myth. And he
+notes how, in the wake of the Macedonian conquests, the Greek poleis were
+"societies that had lost their myth" (2000b: 422).  Oakeshott goes on to
+describe the nature and novelty of the Hobbesian myth:
 
 > The destiny of man is ruled by no Providence, and there is no place in it for perfection, or even lasting
 satisfaction... To those brought up on the older myth [that distinguished medieval Christian civilization], this will
@@ -500,16 +501,11 @@ success been parasitic on the classical-Christian myth it has attempted to suppl
 - Cooper, Barry, and Jodi Bruhn (2008) *Voegelin Recollected: Conversations on a Life*,
   University of Missouri Press: Columbia.
 
-- Fuller, Timothy (2018) "Liberalism and the Prospect of Rational Order in Hobbes’s Political Philosophy and the Responses
-    of Oakeshott, Strauss and Voegelin," in *Tradition Versus Rationalism: Voegelin, Oakeshott, Hayek, and Others*, eds.
-    Lee Trapenier and Gene Callahan, Lexington Books: Lanham, Maryland.
-
-- Fuller, Timothy (2024) *Michael Oakeshott on the Human Condition: Essays by Timothy Fuller*, 
-    Liberty Fund: Carmel, Indiana.
-
-- Maritain, Jacques (1997) *The Collected Works of Jacques Maritain, XX: Untrammeled Approaches*,
-    University of Notre Dame Press: Notre Dame.
->>>>>>> 40ee4e1e83019312817ff769e3cddeba15d8af22
+- Fuller, Timothy (2018) "Liberalism and the Prospect of Rational Order in
+  Hobbes’s Political Philosophy and the Responses of Oakeshott, Strauss and
+  Voegelin," in *Tradition Versus Rationalism: Voegelin, Oakeshott, Hayek, and
+  Others*, eds. Lee Trapenier and Gene Callahan, Lexington Books: Lanham,
+  Maryland.
 
 -   Fuller, Timothy (2024) *Michael Oakeshott on the Human Condition:
     Essays by Timothy Fuller*, Liberty Fund: Carmel, Indiana.
