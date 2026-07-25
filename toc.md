@@ -18,7 +18,7 @@ Gene Callahan, New York University
 ## IV. Hobbes: The Fork in the Road
 
 
-## V. The Fork's Impact on the Politics of Oakeshott and Voegelin
+## V. The Fork's Impact on the Political Philosophy of Oakeshott and Voegelin
 
 
 ## VI. For This Is All a Dream We Dreamed One Afternoon Long Ago

@@ -507,10 +507,10 @@ success been parasitic on the classical-Christian myth it has attempted to suppl
   Others*, eds. Lee Trapenier and Gene Callahan, Lexington Books: Lanham,
   Maryland.
 
--   Fuller, Timothy (2024) *Michael Oakeshott on the Human Condition:
+- Fuller, Timothy (2024) *Michael Oakeshott on the Human Condition:
     Essays by Timothy Fuller*, Liberty Fund: Carmel, Indiana.
 
--   Maritain, Jacques (1997) *The Collected Works of Jacques Maritain,
+- Maritain, Jacques (1997) *The Collected Works of Jacques Maritain,
     XX: Untrammeled Approaches*, University of Notre Dame Press: Notre
     Dame.
 
