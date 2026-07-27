@@ -59,3 +59,7 @@ that he read Voegelin. The second was when, at a conference, I was told
 by someone that he had met Voegelin and, upon telling him that he was
 working on Oakeshott, Voegelin said, "Ah, that English mystic." (It
 should be noted that from Voegelin, that is high praise.)
+
+## Oakeshott's and Voegelin's Place Among Their Contemporaries
+
+
