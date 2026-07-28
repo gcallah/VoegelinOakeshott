@@ -73,8 +73,6 @@ Oakeshott addressed Weber's contention that history is best understood by way of
 more on this point).
 
 
-Callahan (2007)
-
 
 ### Ludwig von Mises
 
@@ -84,6 +82,11 @@ Callahan (2007)
 
 ### Alfred Schutz
 
+Alfred Schutz was another attendee of the Mises Circle, and was a contemporary
+of Oakeshott and Voegelin. Schutz was a phenomenologist, and his work was
+influential on Voegelin's understanding of consciousness and experience.
+Oakeshott, while not directly engaging with Schutz's work, shared an interest in
+the phenomenological approach to understanding human action and social life.
 
 ### Michael Polanyi
 
