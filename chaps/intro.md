@@ -60,6 +60,22 @@ by someone that he had met Voegelin and, upon telling him that he was
 working on Oakeshott, Voegelin said, "Ah, that English mystic." (It
 should be noted that from Voegelin, that is high praise.)
 
-## Oakeshott's and Voegelin's Place Among Their Contemporaries
+## Oakeshott's and Voegelin's Place in Twentieth-Century Thought
+
+
+### Max Weber
+
+
+### Ludwig von Mises
+
+
+### Friedrich Hayek
+
+
+### Alfred Schutz
+
+
+### Michael Polanyi
+
 
 
