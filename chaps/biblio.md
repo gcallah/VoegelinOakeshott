@@ -1,5 +1,8 @@
 # Bibliography
 
+- Callahan, Gene (2007) "Ideal Types and the Historical Method," *Collingwood and
+    British Idealism Studies*, 13(1): 53-68.
+
 - Cooper, Barry, and Jodi Bruhn (2008) *Voegelin Recollected: Conversations on a Life*,
   University of Missouri Press: Columbia.
 

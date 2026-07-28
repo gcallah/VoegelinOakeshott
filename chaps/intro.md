@@ -1,5 +1,7 @@
 # Introduction
 
+## What Is Philosophy?
+
 On my desk as I write these words is a book entitled *Idealism: The History of a
 Philosophy*. But is there actually such a thing as "*a* philosophy"? Is
 philosophy the name of a family of things, like "mammals", so that just
@@ -60,10 +62,18 @@ by someone that he had met Voegelin and, upon telling him that he was
 working on Oakeshott, Voegelin said, "Ah, that English mystic." (It
 should be noted that from Voegelin, that is high praise.)
 
-## Oakeshott's and Voegelin's Place in Twentieth-Century Thought
+## Oakeshott's and Voegelin's Relationship to Their (Near) Contemporaries
 
 
 ### Max Weber
+
+
+Oakeshott addressed Weber's contention that history is best understood by way of
+"ideal types" in his essay, "Historical Events" (2004, 49-104; see Callahan 2007 for
+more on this point).
+
+
+Callahan (2007)
 
 
 ### Ludwig von Mises
@@ -77,5 +87,11 @@ should be noted that from Voegelin, that is high praise.)
 
 ### Michael Polanyi
 
+### Hannah Arendt
+
+
+### Raymond Aron
+
+### Leo Strauss
 
 
