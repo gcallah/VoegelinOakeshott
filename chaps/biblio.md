@@ -41,6 +41,9 @@
 - Oakeshott, Michael (2004) *What Is History? and other essays*,
   Imprint Academic: Exeter.
 
+- Oakeshott, Michael (2008) *The Vocabulary of a Modern European State: Essays
+  and Reviews 1953-1988*, Imprint Academic: Exeter.
+
 - Plato (2004) *Gorgias*, eds. Walter Hamilton and Chris Emlyn-Jones,
   Penguin Classics: London.
 

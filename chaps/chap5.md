@@ -1,4 +1,4 @@
-# V. Pre-Modern Influences
+# V. Understanding Their Antecedents
 
 
 ## Plato
@@ -116,4 +116,19 @@ Puritans" (1996, 119). Since McAllister offers no evidence for either of his
 assertions, I leave it to the reader to decide if they are true.
 
 In any case, as Voegelin understands Hooker,
+
+
+## John Locke
+
+
+
+Oakeshott says of Locke's *Two Treatises* that it "recognizes no firm
+distinction between explanation and prescription; he moves, often
+inadvertently, between these two disparate worlds of discourse, giving a
+spurious air of principle to his recommendations and a false suggestion of
+practical applicability to his explanations -- exactly the sort of work to make
+a profound impression upon mankind" (2008, 163).
+
+## G.W.F. Hegel
+
 

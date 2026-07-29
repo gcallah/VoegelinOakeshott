@@ -19,7 +19,7 @@ Gene Callahan, New York University
 ## [IV. Political Philosophy](chaps/chap4.md)
 
 
-## [V. Pre-Modern Influences](chaps/chap5.md)
+## [V. Understanding Their Antecedents](chaps/chap5.md)
 
 
 ## [VI. Hobbes: The Fork in the Road](chaps/chap6.md)
