@@ -13,19 +13,22 @@ Gene Callahan, New York University
 ## [II. Philosophy of History](chaps/chap2.md)
 
 
-## [III. Political Philosophy](chaps/chap3.md)
+## [III. Rationalism](chaps/chap3.md)
 
 
-## [IV. Pre-Modern Influences](chaps/chap4.md)
+## [IV. Political Philosophy](chaps/chap4.md)
 
 
-## [V. Hobbes: The Fork in the Road](chaps/chap5.md)
+## [V. Pre-Modern Influences](chaps/chap5.md)
 
 
-## [VI. The Fork's Impact on the Political Philosophy of Oakeshott and Voegelin](chaps/chap6.md)
+## [VI. Hobbes: The Fork in the Road](chaps/chap6.md)
 
 
-## [VII. For This Is All a Dream We Dreamed One Afternoon Long Ago](chaps/chap7.md)
+## [VII. The Fork's Impact on the Political Philosophy of Oakeshott and Voegelin](chaps/chap7.md)
+
+
+## [VIII. For This Is All a Dream We Dreamed One Afternoon Long Ago](chaps/chap8.md)
 
 
 ## [Conclusion](chaps/conclusion.md)
