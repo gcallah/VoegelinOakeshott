@@ -1,5 +1,15 @@
 # V. Understanding Their Antecedents
 
+It will be useful to look add a number of antecedents to Oakeshott and Voegelin.
+In some cases, these antecedents are important because they deeply influenced
+the thought of one or both of our two main figures in a positive way. In Other
+cases, the influence was negative, in that the ideas of the thinker in question were
+largely rejected by one or both of MO or EV. In any case, we will only consider
+antecedents who were of some importance to at least one of our pair, and at
+least addressed by the other. For example, Friederich Schelling was an
+important influence on Voegelin, having 71 entries in the cumulative index of
+Voegelin's collected works (2006, 473), but as far as I can determine, he is never
+mentioned by Oakeshott. And thus he is not discussed below.
 
 ## Plato
 

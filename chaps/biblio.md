@@ -73,4 +73,8 @@
 - Voegelin, Eric (2001) *Collected Works, Volume 13: Selected Book
   Reviews*, University of Missouri Press: Columbia and London.
 
+- Voegelin, Eric (2006) *Collected Works, Volume 34: AUtobiographical
+  Reflections, Revised Edition, with a Voegelin Glossary and Cumulative Index*,
+  University of Missouri Press: Columbia and London.
+
 
