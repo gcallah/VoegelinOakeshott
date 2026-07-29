@@ -15,12 +15,19 @@
 - Fuller, Timothy (2024) *Michael Oakeshott on the Human Condition:
   Essays by Timothy Fuller*, Liberty Fund: Carmel, Indiana.
 
+- Gerencser, Steven Anthony (2000) *The Skeptic's Oakeshott*, St. Martin's
+  Press: New York.
+
 - Gray, John (1996) *Post-Liberalism: Studies in Political Thought*, New York
   and Oxon: Routledge.
 
 - Maritain, Jacques (1997) *The Collected Works of Jacques Maritain,
   XX: Untrammeled Approaches*, University of Notre Dame Press: Notre
   Dame.
+
+- McAllister, Ted V. (1996) *Revolt Against Modernity: Leo Strauss, Eric Voegelin,
+  and the Search for a Postliberal Order*, University of Kansaas Press,
+  Lawrence, Kansas.
 
 - Oakeshott, Michael (1933) *Experience and Its Modes*, Cambridge
   University Press: Cambridge.

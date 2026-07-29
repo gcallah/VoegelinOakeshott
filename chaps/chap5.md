@@ -105,3 +105,11 @@ its practical value diverge so sharply?
 
 
 ## Augustine
+
+
+## Richard Hooker
+
+Voegelin drew upon the work of Hooker in his discussion of Puritanism.
+In fact, Ted V. McAllister accuses Voegelin of "borrowing too heavily for his
+characterization from Richard Hooker, an Anglican foe and a poor judge of
+Puritans" (1996, 119).
