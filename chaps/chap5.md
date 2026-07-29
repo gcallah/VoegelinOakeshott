@@ -132,3 +132,10 @@ a profound impression upon mankind" (2008, 163).
 ## G.W.F. Hegel
 
 
+## Karl Marx
+
+
+MO: "Marxism and the Open Mind" (2008, 137-138)
+
+
+
