@@ -10,19 +10,22 @@ Gene Callahan, New York University
 ## [I. Philosophy: Experience Without Reservation or Arrest](chaps/chap1.md)
 
 
-## [II. From Philosophy to Political Philosophy](chaps/chap2.md)
+## [II. Philosophy of History](chaps/chap2.md)
 
 
-## [III. Pre-Modern Influences](chaps/chap3.md)
+## [III. Political Philosophy](chaps/chap3.md)
 
 
-## [IV. Hobbes: The Fork in the Road](chaps/chap4.md)
+## [IV. Pre-Modern Influences](chaps/chap4.md)
 
 
-## [V. The Fork's Impact on the Political Philosophy of Oakeshott and Voegelin](chaps/chap5.md)
+## [V. Hobbes: The Fork in the Road](chaps/chap5.md)
 
 
-## [VI. For This Is All a Dream We Dreamed One Afternoon Long Ago](chaps/chap6.md)
+## [VI. The Fork's Impact on the Political Philosophy of Oakeshott and Voegelin](chaps/chap6.md)
+
+
+## [VII. For This Is All a Dream We Dreamed One Afternoon Long Ago](chaps/chap7.md)
 
 
 ## [Conclusion](chaps/conclusion.md)
