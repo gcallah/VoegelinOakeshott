@@ -112,4 +112,8 @@ its practical value diverge so sharply?
 Voegelin drew upon the work of Hooker in his discussion of Puritanism.
 In fact, Ted V. McAllister accuses Voegelin of "borrowing too heavily for his
 characterization from Richard Hooker, an Anglican foe and a poor judge of
-Puritans" (1996, 119).
+Puritans" (1996, 119). Since McAllister offers no evidence for either of his
+assertions, I leave it to the reader to decide if they are true.
+
+In any case, as Voegelin understands Hooker,
+
