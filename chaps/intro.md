@@ -95,6 +95,10 @@ the phenomenological approach to understanding human action and social life.
 
 ### Raymond Aron
 
+
+MO: Review of *The Opium of the Intellectuals* (2008, 141-144).
+
+
 ### Leo Strauss
 
 
