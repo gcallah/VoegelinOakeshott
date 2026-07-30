@@ -4,7 +4,7 @@ It will be useful to look at a number of antecedents to and contemporaries of
 Oakeshott and Voegelin. In some cases, these antecedents are important because
 they deeply influenced the thought of one or both of our two main figures in a
 positive way. In other cases, the influence was negative, in that the ideas of
-the thinker in question were largely rejected by one or both of MO or EV. In
+the thinker in question were largely rejected by one or both of Oakeshott or EV. In
 any case, we will only consider antecedents who were of some importance to at
 least one of our pair, and at least addressed by the other. For example,
 Friederich Schelling was an important influence on Voegelin, having 71 entries
@@ -146,7 +146,7 @@ a profound impression upon mankind" (2008, 163).
 ## Karl Marx
 
 
-MO: "Marxism and the Open Mind" (2008, 137-138)
+Oakeshott: "Marxism and the Open Mind" (2008, 137-138)
 
 ## Max Weber
 
@@ -172,11 +172,32 @@ Oakeshott addressed Weber's contention that history is best understood by way of
 
 
 ## Raymond Aron
-MO: Review of The Opium of the Intellectuals (2008, 141-144).
+
+
+Oakeshott reviewed Aron's *The Opium of the Intellectuals* (2008, 141-144) in
+1957. He notes that "the long central part of M. Aron's book is devoted to
+an elaborate critique of [the Marxist interpretation of history] and a faithful
+exposure of its errors. From start to finish he can find nothing 'scientific'
+in it; its idiom is a refined sort of secular millenialism...' (2008, 142).
+(Note how this understanding dovetails with Voegelin's of Gnosticism.)
+
+He parts ways with Aron's contention that:
+
+"we are in the process of coming free from the war of ideologies... I do not
+myself think this to be so, because I believe the conditions which generated
+this style of politics are much older and much more deeply rooted than M. Aron
+supposes... it has been with us for more than four centuries and is not likely
+to vanish suddenly." (2008, 143)
+
+But in the end, MO praises Aron's openness to the possibility that scepticism
+just might be our best defense against fanaticism, calling it "a conclusion
+worthy of Pascal" (2008, 144).
 
 
 
 ## Leo Strauss
+
+Oakeshott reviewed Strauss's *The Political Philosophy of Hobbes*
 
 
 
