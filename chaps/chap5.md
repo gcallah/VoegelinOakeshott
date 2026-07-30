@@ -1,19 +1,20 @@
-# V. Understanding Their Antecedents
+# V. Their Antecedents and Contemporaries
 
-It will be useful to look add a number of antecedents to Oakeshott and Voegelin.
-In some cases, these antecedents are important because they deeply influenced
-the thought of one or both of our two main figures in a positive way. In Other
-cases, the influence was negative, in that the ideas of the thinker in question were
-largely rejected by one or both of MO or EV. In any case, we will only consider
-antecedents who were of some importance to at least one of our pair, and at
-least addressed by the other. For example, Friederich Schelling was an
-important influence on Voegelin, having 71 entries in the cumulative index of
-Voegelin's collected works (2006, 473), but as far as I can determine, he is never
-mentioned by Oakeshott. And thus he is not discussed below.
+It will be useful to look at a number of antecedents to and contemporaries of
+Oakeshott and Voegelin. In some cases, these antecedents are important because
+they deeply influenced the thought of one or both of our two main figures in a
+positive way. In other cases, the influence was negative, in that the ideas of
+the thinker in question were largely rejected by one or both of MO or EV. In
+any case, we will only consider antecedents who were of some importance to at
+least one of our pair, and at least addressed by the other. For example,
+Friederich Schelling was an important influence on Voegelin, having 71 entries
+in the cumulative index of Voegelin's collected works (2006, 473). But, as far
+as I can determine, he is never mentioned by Oakeshott. And thus he is not
+discussed below.
 
 ## Plato
 
-Oakeshott and Voegelin share a significant interest and debt to Plato.
+Oakeshott and Voegelin share a significant interest in and debt to Plato.
 At the beginning of his first book, Oakeshott writes, "Anyone who has
 had a glimpse of the range and subtlety of the thought of Plato... will
 long ago have despaired of becoming a philosopher" (1933: 7). And in a work
@@ -146,6 +147,37 @@ a profound impression upon mankind" (2008, 163).
 
 
 MO: "Marxism and the Open Mind" (2008, 137-138)
+
+## Max Weber
+
+Voegelin famously opened *The New Science of Politics* with...
+
+
+Oakeshott addressed Weber's contention that history is best understood by way of "ideal types" in his essay, "Historical Events" (2004, 49-104; see Callahan 2007 for more on this point).
+
+## Ludwig von Mises
+
+
+## Friedrich Hayek
+
+
+
+
+
+## Michael Polanyi
+
+
+
+## Hannah Arendt
+
+
+## Raymond Aron
+MO: Review of The Opium of the Intellectuals (2008, 141-144).
+
+
+
+## Leo Strauss
+
 
 
 
