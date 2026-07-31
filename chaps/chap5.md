@@ -173,6 +173,13 @@ thinker." (1990a, 296)
 
 ## Karl Marx
 
+Oakeshott noted Marx's failed attempt to escape rationalism:
+
+"By casting his technique in the form of a view of the course of events (past,
+present and future), and not of human nature, Marx thought he had escaped from
+Rationalism, but since he had taken the precaution of first turning the course
+events into a doctrine, the escape was an illusion." (1962, 31)
+
 
 Oakeshott: "Marxism and the Open Mind" (2008, 137-138)
 
@@ -187,11 +194,11 @@ work to his own development:
 points. First, the essays of Max Weber on Marxism going back to 1904-1905
 completed my rejection of Marxism as untenable in science...
 
-"Second, Webber's later lectures on *Wissenshcaft und Politik* made it clear that ideologies are so
-called "values" that have to be premised when one acts but are not
-themselves scientific propositions ... Weber was on the side of the ethics of
-responsibility... No excuse for the evil consequences of moralistic action
-could be found in the morality or nobility of one's intentions...
+"Second, Webber's later lectures on *Wissenshcaft und Politik* made it clear
+that ideologies are so called 'values' that have to be premised when one acts
+but are not themselves scientific propositions ... Weber was on the side of the
+ethics of responsibility... No excuse for the evil consequences of moralistic
+action could be found in the morality or nobility of one's intentions...
 
 "third... I should stress that one important further influence of Max Weber was
 the range of his comparative knowledge. So far as I am concerned, Weber
@@ -200,8 +207,7 @@ field of social and political science unless one knows what one is talking
 about. And that means acquiring the comparative civilizational knowledge not
 only of modern civilization but also of medieval and ancient civilization, and
 not only of Western civilization but also of Near Eastern and Far Eastern
-civilizations."
-(2006, 39-41)
+civilizations." (2006, 39-41)
 
 Oakeshott addressed Weber's contention that history is best understood by way
 of "ideal types" in his essay, "Historical Events" (2004, 49-104; see Callahan

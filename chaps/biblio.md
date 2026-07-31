@@ -36,6 +36,9 @@
 - Oakeshott, Michael (1933) *Experience and Its Modes*, Cambridge
   University Press: Cambridge.
 
+- Oakeshott, Michael (1962) *Rationalism In Politics and other essays*, Liberty
+  Fund: Indianapolis.
+
 - Oakeshott, Michael (1975) *On Human Conduct*, Clarendon Press:
   Oxford.
 
