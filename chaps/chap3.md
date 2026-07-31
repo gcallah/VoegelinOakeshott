@@ -34,7 +34,13 @@ commonly is someone using scientific, theoretical criteria to try to
 dictate practice. (In Aristotelian terms, they are employing *theoria* when
 what is called for is *phronesis*.) Examples of this sort of irrelevancy
 abound: Dr. Spock telling parents how to raise children, "scientific" rules for
-how to practice music, urban design based on theory rather than on the actual
-experience of urban living (see Callahan and Ikeda, 2xxx), [MORE].
+how to practice music, and urban design based on theory rather than on the actual
+experience of urban living (see Callahan and Ikeda, 2014). Oakeshott's own
+examples included F.A. Hayek's *Road to Serfdom* (1962, 26), the formulation of an
+"scientific method" as a set of abstract rules the scientist must follow (1962,
+123-124), and the reduction of morality to a similar set of rules (1962,
+466-487). Interestingly, he also held that "The early history of the United
+States of America is an instructive chapter in the history of the politics of
+Rationalism" (1962, 31).
 
 
