@@ -153,7 +153,22 @@ Oakeshott continued to admire Hegel; in 1955, we find him writing:
 "Hegel is so profound and stimulating a thinker that he deserves not only to be
 not misunderstood, but also to be learned from" (2008, 910).
 
-Voegelin's understanding of Hegel is more ambivalent.
+Voegelin's understanding of Hegel is more ambivalent. Fortunately, we have from
+him a concise statement of how his relationship to Hegel's work developed:
+
+"There is a story to my relation to Hegel: For a long time I studiously avoided
+any serious criticism of Hegel in my published work, because I simply could not
+understand him. I knew that something was wrong, but I did not know what. There
+was a thinker whom I admired for his political acumen ... And for his qualities
+as a German man of letters... a thinker whom I consulted at every step in my
+own work because of his vast historical knowledge and his powerful intellect,
+and who at the same time baffled all my efforts at following the thought
+process of his dialectics or at understanding the experiential premises of his
+system.
+
+"The first relief in this frustrating state came from my study of gnosticism
+and discovery that by his contemporaries Hegel was considered a gnostic
+thinker." (1990a, 296)
 
 
 ## Karl Marx
