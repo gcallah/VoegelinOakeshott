@@ -3,6 +3,10 @@
 - Callahan, Gene (2007) "Ideal Types and the Historical Method," *Collingwood and
     British Idealism Studies*, 13(1): 53-68.
 
+- Callahan, Gene and Sanford Ikeda (2014) "Jane Jacobs' Critique of Rationalism in
+  Urban Planning," *Cosmos + Taxis*, 3(1): 10-19,
+  https://cosmosandtaxis.org/wp-content/uploads/2014/11/ct_1_3_callahan_ikeda.pdf.
+
 - Cooper, Barry, and Jodi Bruhn (2008) *Voegelin Recollected: Conversations on a Life*,
   University of Missouri Press: Columbia.
 
