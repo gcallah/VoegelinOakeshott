@@ -47,6 +47,9 @@
 - Plato (2004) *Gorgias*, eds. Walter Hamilton and Chris Emlyn-Jones,
   Penguin Classics: London.
 
+- Voegelin, Eric (1978) *Anamnesis*, trans. and edited by Gerhart Niemeyer, 
+  University of Missouri Press: Columbia and London.
+
 - Voegelin, Eric (1990a) *Collected Works, Volume 12: Published Essays
   1966-1985*, Louisiana State University Press: Baton Rouge and
   London.

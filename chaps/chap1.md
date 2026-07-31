@@ -98,3 +98,9 @@ be considerably more radical to match the problems raised by the
 disorder of the age." (1990a: 306)
 
 
+## Reality Is a World of Experience
+
+
+Voegelin: "There is no other reality than that of which we have experience" (xxxx, 170).
+
+
