@@ -142,6 +142,19 @@ a profound impression upon mankind" (2008, 163).
 
 ## G.W.F. Hegel
 
+In his first book, Oakeshott wrote "the works from which I am conscious of
+having learnt the most are Hegel's *Phanomenologie des Geistes* and Bradley's
+*Appearance and Reality*" (1933, 6). And in the rest of the book
+he references Hegel more than any other thinker.
+
+
+Oakeshott continued to admire Hegel; in 1955, we find him writing:
+
+"Hegel is so profound and stimulating a thinker that he deserves not only to be
+not misunderstood, but also to be learned from" (2008, 910).
+
+Voegelin's understanding of Hegel is more ambivalent.
+
 
 ## Karl Marx
 
@@ -152,8 +165,32 @@ Oakeshott: "Marxism and the Open Mind" (2008, 137-138)
 
 Voegelin famously opened *The New Science of Politics* with...
 
+In an essay entitled "Max Weber," Voegelin describes the importance of Weber's
+work to his own development:
 
-Oakeshott addressed Weber's contention that history is best understood by way of "ideal types" in his essay, "Historical Events" (2004, 49-104; see Callahan 2007 for more on this point).
+"The lasting influence of Max Webber can be concentrated in the following
+points. First, the essays of Max Weber on Marxism going back to 1904-1905
+completed my rejection of Marxism as untenable in science...
+
+"Second, Webber's later lectures on *Wissenshcaft und Politik* made it clear that ideologies are so
+called "values" that have to be premised when one acts but are not
+themselves scientific propositions ... Weber was on the side of the ethics of
+responsibility... No excuse for the evil consequences of moralistic action
+could be found in the morality or nobility of one's intentions...
+
+"third... I should stress that one important further influence of Max Weber was
+the range of his comparative knowledge. So far as I am concerned, Weber
+established once and for all that one cannot be a successful scholar in the
+field of social and political science unless one knows what one is talking
+about. And that means acquiring the comparative civilizational knowledge not
+only of modern civilization but also of medieval and ancient civilization, and
+not only of Western civilization but also of Near Eastern and Far Eastern
+civilizations."
+(2006, 39-41)
+
+Oakeshott addressed Weber's contention that history is best understood by way
+of "ideal types" in his essay, "Historical Events" (2004, 49-104; see Callahan
+2007 for more on this point).
 
 ## Ludwig von Mises
 
