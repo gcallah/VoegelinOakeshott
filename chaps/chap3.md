@@ -1,5 +1,6 @@
 # III. Rationalism
 
+## Oakeshott on Rationalism
 
 Oakshott's critique of rationalism follows directly from the ideas he expressed
 in *Experience and its Modes*. As my friend James Connolly once said to me in
@@ -44,3 +45,18 @@ States of America is an instructive chapter in the history of the politics of
 Rationalism" (1962, 31).
 
 
+
+## Voegelin on Rationalism
+
+
+
+"If the adequacy of a method is not measured by its usefulness to the purpose
+of science, if on the contrary the use of a method is made the criterion of
+science, then the meaning of science as a truthful account of the structure of
+reality, as the theoretical orientation of man in his world, and as the great
+instrument for man's understanding of his own position in the universe is lost."
+(2000c, 91)
+
+
+"The subordination of theoretical relevance to method perverts the meaning of
+science on principle" (2000c, 92).

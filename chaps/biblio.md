@@ -72,6 +72,11 @@
   History, Volume III, Plato and Aristotle*, University of Missouri
   Press: Columbia.
 
+- Voegelin, Eric (2000c) *Collected Works, Volume 5: Modernity
+  Without Restraint: The Political Religions, The New Science of Politics, and
+  Science, Politics, and Gnosticism*, University of Missouri
+  Press: Columbia.
+
 - Voegelin, Eric (2000c) *Collected Works, Volume 17: Order and
   History, Volume IV, The Ecumenic Age*, University of Missouri Press:
   Columbia.
