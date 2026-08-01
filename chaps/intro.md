@@ -29,26 +29,6 @@ essentially worthless for guiding practical affairs. This paper will
 also ask from whence arises this parting of the ways, and demonstrate that it
 has significance for the history of liberalism.
 
-I encountered Michael Oakeshott through an online acquaitance who advised me
-that, if I wanted to understand the limits of the thought of someone like
-Ludwig von Mises, I should take a look at people like Oakeshott and
-Michael Polanyi. I picked up *Rationalism in Politics* and was immediately
-enamoured, so much so that I bought a ticket to London to attend the inaugral
-conference of the Michael Oakshott Association, despite being unfamiliar with
-anyone involved in the organization. Aided by the rise of online booksellers, I
-was soon able to purchase most of the books he had written, and a couple of
-years later, I began my PHD studies, focusing on his work.
-
-While I was writing my thesis, my advisor,
-David Boucher, told me that Oakeshott had advised him to "look into the work of
-Eric Voegelin." While David instead had spent most of his scholarly efforts
-becoming a leading expert on the work of the British Idealists, and R.G.
-Collingwood in particular, I assumed he was doing his best to complete
-Oakeshott's assignment by passing it on to me. I also immediately took to
-Voegelin's writing, A fact which threatened to der my thesis , to the point
-where one of my examiners said your thesis is on Oakeshot: it won't due to
-have half of it being about Voegelin."
-
 ## Parallel Lives
 
 Oakeshott and Voegelin were as much contemporaries as any two
@@ -82,3 +62,39 @@ by someone that he had met Voegelin and, upon telling him that he was
 working on Oakeshott, Voegelin said, "Ah, that English mystic." (It
 should be noted that from Voegelin, that is high praise.)
 
+## My Own Journey with Oakeshott and Voegelin
+
+I encountered Michael Oakeshott through an online acquaintance who advised me
+that, if I wanted to understand the limits of the thought of someone like
+Ludwig von Mises, I should take a look at people like Oakeshott and
+Michael Polanyi. I picked up *Rationalism in Politics* and was immediately
+enamoured, so much so that, very soon thereafter, I bought a ticket to London
+to attend the inaugral conference of the Michael Oakshott Association, despite
+being unfamiliar with anyone involved in the organization. Aided by the rise of
+online booksellers, I was soon able to purchase most of the books he had
+written, and a couple of years later, I began my PHD studies, focusing on his
+work.
+
+While I was writing my thesis, my advisor,
+David Boucher, told me that Oakeshott had advised him to "look into the work of
+Eric Voegelin." While David instead had spent most of his scholarly efforts
+becoming a leading expert on the work of the British Idealists, and R.G.
+Collingwood in particular, I imagined he was doing his best to complete the
+task Oakeshott had assigned to him by passing it on to me. I also immediately
+took to Voegelin's ideas, a fact which threatened to derail my thesis, to the
+point where one of my examiners told me, "Your thesis is on Oakeshott: it won't due
+to have half of it being about Voegelin." (I paraphrase!)
+
+In any case, since those initial encounters I returned to the of Oakeshott and
+Voegelin again and again, and always with profit. Even  The 3rd or 4th time
+I've read an essay, I have discovered something new in it. 
+
+Bringing the two voices I was hearing in this duet into a satisfactory harmonic
+relationship was often straightforward: they were already in harmony,
+if one just understood how to transpose one of their voices into the key of the
+other one. 
+
+But occasionally there were passages where the harmony was difficult to
+imagine, and the sounded by each of the voices seemed inherently discordant.
+Exploring the presence of those dissonances within that larger harmonic structure
+is the aim of this book. 

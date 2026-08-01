@@ -20,3 +20,10 @@ support a civilization, or has its success been parasitic on the
 classical-Christian myth it has attempted to supplant?"
 
 
+*********************
+
+For Oakeshott, the contribution to the common good most appropriate for a
+government to have as its telos that of being the custodian of a system
+approvals, deemed laws, that reduce
+the friction of otherwise  
+
