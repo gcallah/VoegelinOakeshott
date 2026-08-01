@@ -205,7 +205,11 @@ Oakeshott: "Marxism and the Open Mind" (2008, 137-138)
 
 ## Max Weber
 
-Voegelin famously opened *The New Science of Politics* with...
+Voegelin opened *The New Science of Politics* with an argument that positivism
+as the domineering method of social science had resulted in the loss of "the
+consciousness of principles" (2000c, 90). And the "movement of methodology, as
+far as political science is concerned, ran to the end of its immanent logic in
+the person and work of Max Weber" (2000c, 98).
 
 In an essay entitled "Max Weber," Voegelin describes the importance of Weber's
 work to his own development:
