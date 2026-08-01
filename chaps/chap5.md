@@ -170,8 +170,25 @@ system.
 and discovery that by his contemporaries Hegel was considered a gnostic
 thinker." (1990a, 296)
 
+Voegelin explored this topic in his essay, "On Hegel: A Study in Sorcery."
+
+
+Oakeshott might have responded to Voegelin's more negative view of Hegel much
+as he closed his review of Herbert Marcuse's *Reason and Revolution: Hegel and
+the Rise of Social Theory*: 
+
+"In a casual note Hegel himself remarked upon the release which comes when we
+are indifferent to a writer's defects and can regard him as an inheritance to
+be enjoyed. In respect of Hegel we have not yet achieved this release, and
+until we do so we shall continue to miss much of what we might learn from him."
+(2008, 91-92)
+
 
 ## Karl Marx
+
+As we will see in the section below on Weber, Voegelin had, for a few months in
+his youth, entertained Marxism as viable system. But reading Weber cured him of
+indulging this youthful indiscretion.
 
 Oakeshott noted Marx's failed attempt to escape rationalism:
 
@@ -182,6 +199,9 @@ events into a doctrine, the escape was an illusion." (1962, 31)
 
 
 Oakeshott: "Marxism and the Open Mind" (2008, 137-138)
+
+
+
 
 ## Max Weber
 
