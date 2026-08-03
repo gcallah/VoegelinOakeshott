@@ -39,8 +39,16 @@
 - Oakeshott, Michael (1962) *Rationalism In Politics and other essays*, Liberty
   Fund: Indianapolis.
 
+- Oakeshott, Michael (1973) letter to Eric Voegelin of April 26.
+  From the Hoover Institution Archives, photocopied by Luke O'Sullivan and sent
+  to me in private correspondence.
+
 - Oakeshott, Michael (1975) *On Human Conduct*, Clarendon Press:
   Oxford.
+
+- Oakeshott, Michael (1982) letter to Gregor Sebba of September 26.
+  From the Hoover Institution Archives, photocopied by Luke O'Sullivan and sent
+  to me in private correspondence.
 
 - Oakeshott, Michael (1993) *Religion, Politics, and the Moral Life*,
   ed. Timothy Fuller, Yale University Press: New Haven and London.
@@ -53,6 +61,10 @@
 
 - Plato (2004) *Gorgias*, eds. Walter Hamilton and Chris Emlyn-Jones,
   Penguin Classics: London.
+
+- Voegelin, Eric (1976) letter to Michael Oakeshott of October 27.
+  From the Hoover Institution Archives, photocopied by Luke O'Sullivan and sent
+  to me in private correspondence.
 
 - Voegelin, Eric (1978) *Anamnesis*, trans. and edited by Gerhart Niemeyer, 
   University of Missouri Press: Columbia and London.

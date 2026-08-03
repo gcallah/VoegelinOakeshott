@@ -52,15 +52,39 @@ review of Voegelin's *New Science of Politics*, in which the reader
 guide of rare knowledge and intelligence" (2004: 229). Voegelin
 favorably cites Oakeshott's introduction to *Leviathan* (2000a: 36),
 
-Besides these scant published references, there are a few other points of contact.
+But behind these scant published references, a deeper relationship can be
+discerned. The two men had correspondence, and a few meetings, over a period of
+many years.
+
 When Voegelin was based in Munich, he invited Oakeshott to give lectures
 at his institute (Cooper and Bruhn, 2008: 79, 99).
-And I can add two references from personal conversation. The first was when
-David Boucher told me that Oakeshott had personally recommended to him
-that he read Voegelin. The second was when, at a conference, I was told
-by someone that he had met Voegelin and, upon telling him that he was
-working on Oakeshott, Voegelin said, "Ah, that English mystic." (It
-should be noted that from Voegelin, that is high praise.)
+
+In 1973, Oakeshott had writen a "short testimonial" for Voegelin to the
+historian Denis Mack Smith at Oxford, and then wrote to Voegelin to let him
+know, adding:
+
+"I'm glad to hear of your new work: It is an ordeal to try, at our age, to
+do anything new & substantial. I am just finishing a piece of work I have
+been at for five or six years, & it is a great effort." (1973)
+
+The two met again in London in 1976, after which meeting Voegelin wrote
+to Oakeshott:
+
+"That was [a] lovely evening we had with you in London. My wife and I want to
+thank you for your generous hospitality... And let me thank you
+especially for the pleasure of meeting you again, and listening to you when you
+expand, with all your experience, on the present intellectual scene." (1976)
+
+In a letter to Gregor Sebba in 1982, Oakeshott wrote:
+
+"I am privileged to have the opportunity of supporting your nomination of Eric
+Foglin for an honorary doctorate from Emory University, and I am delighted to
+do so. He is a scholar whose originality & distinction are second to none in
+our generation. His learning is subtle & profound, & he has invited us to
+follow him into regions of understanding which would otherwise have been closed
+to us, asking only that we should consider & reflect. We are all deeply
+indebted to him and are happy to acknowledge the debt." (1982)
+
 
 ## My Own Journey with Oakeshott and Voegelin
 
