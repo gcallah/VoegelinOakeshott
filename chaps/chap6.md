@@ -7,8 +7,29 @@ I suggest we can point to where the paths followed by Oakeshott and
 Voegelin forked; and that fork is Thomas Hobbes.
 
 My contention here is not that differing takes on Hobbes *caused* their divergence
-on the nature of political philosophy. Instead it is that the reactions to
+on the nature of political philosophy. Instead it is that in the reactions to
 Hobbes, we can detect the actual root of this difference. 
+
+Oakeshott wrote on Hobbes as early as 1935, in an essay entitled "Thomas
+Hobbes." He begins by noting a revival in the interest of Hobbes's writings,
+beginning towards the end of the 19th century. While generally seeming pleased
+about this increase an attention being paid to Hobbes, Oakeshott does harbor a
+worry:
+
+"There are certain elements in the contemporary interest in Hobbes's writings
+which, since Hobbes is a philosopher, I should regard as unhealthy. In the
+first place, we are met with the suggestion that Hobbes is a writer whose work
+is peculiarly apposite to the post-war world... But a political philosopher has
+something more, and more significant, than political opinions: he has an
+analysis of political activity, a comprehensive view of the nature of political
+life, and it is this, and not his political opinions, which it is profitable
+for a later and different age to study." (2007, 111)
+
+
+
+
+
+
 
 For Voegelin, Hobbes is a representative of modern alienation. For
 example, he writes "In the modern Western history of unrest... A Hobbes

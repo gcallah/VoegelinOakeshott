@@ -56,6 +56,9 @@
 - Oakeshott, Michael (2004) *What Is History? and other essays*,
   Imprint Academic: Exeter.
 
+- Oakeshott, Michael (2007) *The Concept of a Philosophical Jurisprudence: Essays
+  and Reviews 1926-51*, Imprint Academic: Exeter.
+
 - Oakeshott, Michael (2008) *The Vocabulary of a Modern European State: Essays
   and Reviews 1953-1988*, Imprint Academic: Exeter.
 

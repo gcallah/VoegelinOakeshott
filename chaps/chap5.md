@@ -1,4 +1,4 @@
-# V. Their Antecedents and Contemporaries
+# V. Oakeshott and Voegelin among Their Antecedents and Contemporaries
 
 It will be useful to look at a number of antecedents to and contemporaries of
 Oakeshott and Voegelin. In some cases, these antecedents are important because
