@@ -293,6 +293,13 @@ In fact, Voegelin argued, Weber's commitment to moving his students
 towards an ethics of responsibility demonstrated an attempt to break free of
 his self-imposed restraints:
 
+"Were reasoned value-judgements possible after all. The teaching of a
+value-free science of politics in a university would be a senseless enterprise
+unless it were calculated to influence the values of the students by putting at
+their disposition an objective knowledge of political reality. In so far as
+Weber was a great teacher, he gave lie to his idea of values as demonic
+decisions."
+
 
 
 Weber had far less influence on Oakeshott than on Voegelin, a fact not
