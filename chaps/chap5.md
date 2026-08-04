@@ -228,30 +228,53 @@ not only of Western civilization but also of Near Eastern and Far Eastern
 civilizations." (2006, 39-41)
 
 
-Voegelin opened *The New Science of Politics* with an argument that positivism
+But Voegelin's admiration for Weber was not without reservation. He
+opened *The New Science of Politics* with an argument that positivism
 as the domineering method of social science had resulted in the loss of "the
 consciousness of principles" (2000c, 90). In particular, it was the positivist
 insistence that only propositions subject to confirmation by physical
 measurement were "objective":
 
-"In order to arrive at clarity about the issue, it must first of all be realized
-that the terms 'value-judgment' and 'value- free' science were not part of the
-philosophical vocabulary before the second half of the nineteenth century. The
-notion of a value-judgment... is meaningless in itself; it gains its meaning
-from a situation in which it is opposed to judgments concerning facts... And
-this situation was created through the positivistic conceit that only
-propositions concerning facts of the phenomenal world were 'objective,' while
-judgments concerning the right order of soul and society were 'subjective.'
-Only propositions of the first type could be considered 'scientific,' while
-propositions of the second type expressed personal preferences and decisions,
-incapable of critical verification and therefore devoid of objective validity.
-This classification made sense only if the positivistic dogma was accepted on
-principle; and it could be accepted only by thinkers who did not master the
-classic and Christian science of man." (2000c, 96)
+"it must first of all be realized that the terms 'value-judgment' and 'value-
+free' science were not part of the philosophical vocabulary before the second
+half of the nineteenth century. The notion of a value-judgment... is
+meaningless in itself; it gains its meaning from a situation in which it is
+opposed to judgments concerning facts... And this situation was created through
+the positivistic conceit that only propositions concerning facts of the
+phenomenal world were 'objective,' while judgments concerning the right order
+of soul and society were 'subjective.' Only propositions of the first type
+could be considered 'scientific,' while propositions of the second type
+expressed personal preferences and decisions, incapable of critical
+verification and therefore devoid of objective validity.  This classification
+made sense only if the positivistic dogma was accepted on principle; and it
+could be accepted only by thinkers who did not master the classic and Christian
+science of man." (2000c, 96)
 
-The "movement of methodology, as
+Voegelin asserted that the "movement of [positivist] methodology, as
 far as political science is concerned, ran to the end of its immanent logic in
-the person and work of Max Weber" (2000c, 98).
+the person and work of Max Weber" (2000c, 98). As he understood Weber's
+approach:
+
+"A value-free science meant to Weber the exploration of a causes and effects,
+the construction of ideal types that would permit distinguishing regularities
+of institutions as well as deviations from them, and especially the
+construction of typical causal relations. Such a science would not be in a
+posi- tion to tell anybody whether he should be an economic liberal or a
+socialist, a democratic constitutionalist or a Marxist revolutionary, but it
+could tell him what the consequences would be if he tried to translate the
+values of his preference into political practice. On the one side, there were
+the 'values' of political order beyond critical evaluation; on the other
+side, there was a science of the structure of social reality that might be used
+as technical knowledge by a politician. In sharpening the issue of a
+'value-free' science to this pragmatic point, Weber moved the debate beyond
+methodological squabbles again to the order of relevance. He wanted science
+because he wanted clarity about the world in which he passionately
+participated; he was headed again on the road toward essence. The search for
+truth, however, was cut short at the level of pragmatic action. In the
+intellectual climate of the methodological debate the 'values' had to be
+accepted as unquestionable, and the search could not advance to the
+contemplation of order. The *ratio* of science extended, for Weber, not to the
+principles but only to the causality of action." (2000c, 98)
 
 
 
