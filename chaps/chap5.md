@@ -4,13 +4,13 @@ It will be useful to look at a number of antecedents to and contemporaries of
 Oakeshott and Voegelin. In some cases, these antecedents are important because
 they deeply influenced the thought of one or both of our two main figures in a
 positive way. In other cases, the influence was negative, in that the ideas of
-the thinker in question were largely rejected by one or both of Oakeshott or EV. In
-any case, we will only consider antecedents who were of some importance to at
-least one of our pair, and at least addressed by the other. For example,
-Friederich Schelling was an important influence on Voegelin, having 71 entries
-in the cumulative index of Voegelin's collected works (2006, 473). But, as far
-as I can determine, he is never mentioned by Oakeshott. And thus he is not
-discussed below.
+the thinker in question were largely rejected by one or both of Oakeshott or
+Voegelin. In any case, we will only consider figures who were of some
+importance to at least one of our pair, and at least addressed by the other.
+For example, Friederich Schelling was an important influence on Voegelin,
+having 71 entries in the cumulative index of Voegelin's collected works (2006,
+473). But, as far as I can determine, he is never mentioned by Oakeshott. And
+thus he is not discussed below.
 
 ## Plato
 
@@ -29,8 +29,8 @@ writings show a strong affinity for the Socratic style of
 philosophizing" (1993: 23).
 
 Voegelin, of course, devoted a 400-page book entirely to the work of
-Plato and Aristotle (2000b), and the Cumulative index of Voegelin's
-collected works well over 300 references to Plato scatted across at
+Plato and Aristotle (2000b), and the cumulative index of Voegelin's
+collected works contains well over 300 references to Plato scatted across at
 least 17 volumes.
 
 But it also, in their remarks on Plato, the major difference in
@@ -89,26 +89,27 @@ understanding for knowledge of conditional platforms of understanding
 leads the cave dwellers to send him packing:
 
 "The cave-dwellers, upon first encountering the theorist after his
-return to the world of the shadows \[very well might be impressed\] when
+return to the world of the shadows very well might be impressed when
 he tells them that what they had always thought of as 'a horse' is not
 what they suppose it to be... but is, on the contrary, a modification of
-the attributes of God \[, and they will\] applaud his performance even
-where they cannot quite follow it. \[The cave-dwellers can appreciate
+the attributes of God, and they will applaud his performance even
+where they cannot quite follow it. The cave-dwellers can appreciate
 the exotic pronouncements of the theorist, as long as he confines those
-pronouncements to their genuine field of applicability.\] But if he were
+pronouncements to their genuine field of applicability. But if he were
 to tell them that, in virtue of his more profound understanding of the
 nature of horses, he is a more expert horse-man, horse-chandler, or
 stable boy than they (in their ignorance) could ever hope to be, and
 when it becomes clear that his new learning has lost him the ability to
-tell one end of a horse from the other... \[then\] before long the more
-perceptive of the cave-dwellers \[will\] begin to suspect that, after
-all, he \[is\] not an interesting theorist but a fuddled and pretentious
+tell one end of a horse from the other... then before long the more
+perceptive of the cave-dwellers will begin to suspect that, after
+all, he is not an interesting theorist but a fuddled and pretentious
 'theoretician' who should be sent on his travels again, or accommodated
 in a quiet home." (1975: 30)
 
 Given how close Oakeshott's and Voegelin's understandings of what
 philosophy is, we have a real puzzle here: how did their evaluation of
-its practical value diverge so sharply?
+its practical value diverge so sharply? We will take up this question in the
+next chapter.
 
 
 ## Aristotle
@@ -146,7 +147,6 @@ In his first book, Oakeshott wrote "the works from which I am conscious of
 having learnt the most are Hegel's *Phanomenologie des Geistes* and Bradley's
 *Appearance and Reality*" (1933, 6). And in the rest of the book
 he references Hegel more than any other thinker.
-
 
 Oakeshott continued to admire Hegel; in 1955, we find him writing:
 
@@ -205,12 +205,6 @@ Oakeshott: "Marxism and the Open Mind" (2008, 137-138)
 
 ## Max Weber
 
-Voegelin opened *The New Science of Politics* with an argument that positivism
-as the domineering method of social science had resulted in the loss of "the
-consciousness of principles" (2000c, 90). And the "movement of methodology, as
-far as political science is concerned, ran to the end of its immanent logic in
-the person and work of Max Weber" (2000c, 98).
-
 In an essay entitled "Max Weber," Voegelin describes the importance of Weber's
 work to his own development:
 
@@ -233,9 +227,41 @@ only of modern civilization but also of medieval and ancient civilization, and
 not only of Western civilization but also of Near Eastern and Far Eastern
 civilizations." (2006, 39-41)
 
+
+Voegelin opened *The New Science of Politics* with an argument that positivism
+as the domineering method of social science had resulted in the loss of "the
+consciousness of principles" (2000c, 90). In particular, it was the positivist
+insistence that only propositions subject to confirmation by physical
+measurement were "objective":
+
+"In order to arrive at clarity about the issue, it must first of all be realized
+that the terms 'value-judgment' and 'value- free' science were not part of the
+philosophical vocabulary before the second half of the nineteenth century. The
+notion of a value-judgment... is meaningless in itself; it gains its meaning
+from a situation in which it is opposed to judgments concerning facts... And
+this situation was created through the positivistic conceit that only
+propositions concerning facts of the phenomenal world were 'objective,' while
+judgments concerning the right order of soul and society were 'subjective.'
+Only propositions of the first type could be considered 'scientific,' while
+propositions of the second type expressed personal preferences and decisions,
+incapable of critical verification and therefore devoid of objective validity.
+This classification made sense only if the positivistic dogma was accepted on
+principle; and it could be accepted only by thinkers who did not master the
+classic and Christian science of man." (2000c, 96)
+
+The "movement of methodology, as
+far as political science is concerned, ran to the end of its immanent logic in
+the person and work of Max Weber" (2000c, 98).
+
+
+
+
+
 Oakeshott addressed Weber's contention that history is best understood by way
 of "ideal types" in his essay, "Historical Events" (2004, 49-104; see Callahan
 2007 for more on this point).
+
+
 
 ## Ludwig von Mises
 
