@@ -1,8 +1,14 @@
 
 # VI. Hobbes: The Fork in the Road
 
+
+
 I suggest we can point to where the paths followed by Oakeshott and
 Voegelin forked; and that fork is Thomas Hobbes.
+
+My contention here is not that differing takes on Hobbes *caused* their divergence
+on the nature of political philosophy. Instead it is that the reactions to
+Hobbes, we can detect the actual root of this difference. 
 
 For Voegelin, Hobbes is a representative of modern alienation. For
 example, he writes "In the modern Western history of unrest... A Hobbes
