@@ -78,7 +78,7 @@ expand, with all your experience, on the present intellectual scene." (1976)
 In a letter to Gregor Sebba in 1982, Oakeshott wrote:
 
 "I am privileged to have the opportunity of supporting your nomination of Eric
-Foglin for an honorary doctorate from Emory University, and I am delighted to
+Voegelin for an honorary doctorate from Emory University, and I am delighted to
 do so. He is a scholar whose originality & distinction are second to none in
 our generation. His learning is subtle & profound, & he has invited us to
 follow him into regions of understanding which would otherwise have been closed
