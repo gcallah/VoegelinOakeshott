@@ -276,11 +276,27 @@ accepted as unquestionable, and the search could not advance to the
 contemplation of order. The *ratio* of science extended, for Weber, not to the
 principles but only to the causality of action." (2000c, 98)
 
+Stopped short, by his own methodological constriction, of rationally exploring
+values themselves, Weber resorted to the categorizing political stances as
+responsibile or demonic. In doing so, he was struggling towards restoring the
+analysis of values themselves into the human sciences as far as those
+constraints would allow him to do.
+
+Voegelin comments:
+
+"If Weber had done nothing but revealed that a 'value-free' 
+political science is not a science of order and that 'values' are 
+demonic decisions, the grandeur of his work... might be open to doubt...
+Weber, however, went much further..." (2000c, 99).
 
 
 
 
-Oakeshott addressed Weber's contention that history is best understood by way
+Weber had far less influence on Oakeshott than on Voegelin, a fact not
+surprising given Weber's comparative status in the English-speaking world
+versus the German-speaking.
+
+addressed Weber's contention that history is best understood by way
 of "ideal types" in his essay, "Historical Events" (2004, 49-104; see Callahan
 2007 for more on this point).
 
