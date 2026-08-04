@@ -289,16 +289,35 @@ political science is not a science of order and that 'values' are
 demonic decisions, the grandeur of his work... might be open to doubt...
 Weber, however, went much further..." (2000c, 99).
 
+In fact, Voegelin argued, Weber's commitment to moving his students
+towards an ethics of responsibility demonstrated an attempt to break free of
+his self-imposed restraints:
 
 
 
 Weber had far less influence on Oakeshott than on Voegelin, a fact not
 surprising given Weber's comparative status in the English-speaking world
-versus the German-speaking.
+versus the German-speaking world. (An illustration of this difference is the
+fact that it took twenty-five years after *The Protestant Ethic and the Spirit
+of Capitalism* was published in German for the first English language
+translation to appear.)
+
+In fact, I can find no references to Weber in
+Oakeshott's work. But I think it is clear that in his essay "Historical
+Events," he was addressing Weber's historical methodology, wherein the
+understanding of historical events is best advanced by recognizing in them
+patterns that could be identified as "ideal types," and explaining what
+occurred as the result of the interplay of those types. For example, the rise
+of Mussolini in Italy perhaps would be explained using such ideal types as "the
+authoritarian dictator," "an immature democracy," "the bourgeois reaction to
+the growing threat of communism," and so on.
+
 
 addressed Weber's contention that history is best understood by way
-of "ideal types" in his essay, "Historical Events" (2004, 49-104; see Callahan
-2007 for more on this point).
+of "ideal types" in his essay, "Historical Events" (2004, 49-104; 
+
+
+(See Callahan, 2007 for more on this point).
 
 
 
