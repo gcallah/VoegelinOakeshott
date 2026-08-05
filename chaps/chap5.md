@@ -201,6 +201,22 @@ events into a doctrine, the escape was an illusion." (1962, 31)
 Oakeshott: "Marxism and the Open Mind" (2008, 137-138)
 
 
+# Nietzsche
+
+
+In reviewing *Nietzsche: an Approach* by Janko Lavrin, Oakeshott noted that
+at that time (1948) "We are beginning to have an opportunity to observe the man
+in his work unembarrassed by the exaggerated reverence of his injudicious
+admirers, the mistaken enthusiasm of the culture-philistines up from the
+suburbs, and the protests of the injured" (2007, 224). When understood
+properly, he contended, Nietzsche offers:
+
+"A profound and imaginative diagnosis of a crisis in European culture. He
+sounded an alarm... He elaborated his diagnosis in detail with untiring insight
+in every field of human activity and in phrases which... have the power of
+opening up vistas of reflection and setting the imagination on fire. In art,
+insight (diagnosis) is an end in itself." (2007, 224-225)
+
 
 
 ## Max Weber
