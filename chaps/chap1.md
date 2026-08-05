@@ -35,6 +35,11 @@ Vogelin on zetesis.
 
 MO quotes to the same effect.
 
+Oakeshott:
+"There will always be new philosophy, and what is new is valuable, even if it is
+inferior to what we have already. It is the business of philosophy continuously
+to renew itself." (2007, 113)
+
 ## Philosophizing Is Not About Creating a Doctrine or a System
 
 Oakeshott rejects the idea that the essence of philosophy is to create a

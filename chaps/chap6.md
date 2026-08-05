@@ -25,6 +25,30 @@ analysis of political activity, a comprehensive view of the nature of political
 life, and it is this, and not his political opinions, which it is profitable
 for a later and different age to study." (2007, 111)
 
+Basil Willey:
+"That philosophers often entertain ambitions extraneous to philosophy is known well enough, and that some of them appear to be unable to prevent these ambitions from contaminating their writings is a sad fact; but to select one of these extraneous purposes -- that of preacher -- as the significant characteristic of a piece of philosophical writing appears to me to indicate a misconceived approach to the study of philosophy, and the result is likely to be anything but remunerative.  112
+
+
+
+
+Historical investigation: here we already see Oakshott arriving at the image of
+the modes that he clearly expressed in "the voice of poetry in the conversation
+of mankind," where, rather than being completely irrelevant to each other, they
+can actually converse.
+
+If Oakeshott accepts that an historical investigation can be at all relevant to
+a piece of philosophical thinking, that strict barrier between the modes and
+philosophy has broken down already.
+
+I would suggest, as a hypothesis worthy of further investigation, that  R.G.
+Collingwood's review of Experience and its Modes had already led him to change
+his view to the position he only explicitly laid out in "The Voice of Poetry in
+the Conversation of Mankind." Whether that hypothesis is true or not
+is of no importance to anything else said here, so I will not derail us with a
+discussion of it.
+
+
+
 
 
 
