@@ -217,6 +217,13 @@ in every field of human activity and in phrases which... have the power of
 opening up vistas of reflection and setting the imagination on fire. In art,
 insight (diagnosis) is an end in itself." (2007, 224-225)
 
+Oakeshott:
+"But the German tradition is distinguished by the presence of two writers -
+Nietzsche and Kierkegaard - who have no counterpart in English thought; profound
+philosophical thinkers, yet writers whose influence springs from the force of
+their personality and whose natural voice is that of the prophet rather than
+that of the philosopher." (2007, 136)
+
 
 
 ## Max Weber
@@ -325,8 +332,14 @@ fact that it took twenty-five years after *The Protestant Ethic and the Spirit
 of Capitalism* was published in German for the first English language
 translation to appear.)
 
-In fact, I can find no references to Weber in
-Oakeshott's work. But I think it is clear that in his essay "Historical
+In fact, I can find few references to Weber in
+Oakeshott's work.
+
+"The book belongs to what is now an established tradition of great vitality in
+the recent history of social investigation, a tradition which owes more to Marx
+and Nietzsche and Max Weber than to any other writers." (2007, 148)
+
+But I think it is clear that in his essay "Historical
 Events," he was addressing Weber's historical methodology, wherein the
 understanding of historical events is best advanced by recognizing in them
 patterns that could be identified as "ideal types," and explaining what
