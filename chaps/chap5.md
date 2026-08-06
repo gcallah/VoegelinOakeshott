@@ -359,6 +359,24 @@ of "ideal types" in his essay, "Historical Events" (2004, 49-104;
 
 ## R.G. Collingwood
 
+Oakeshot was effusive in his review of Collingwood's *The Principles of Art*. He wrote:
+
+"Since I doubt my capacity to give in this review any adequate and convincing
+impression of the value and importance of this book, I can do no better than
+state at once that it is the most profound and stimulating discussion I have
+ever read of the question, What is art?... It is the work of an artist and a
+philosopher; it is written with a charm and a vigor which matches the subtlety
+and sanity of its doctrine. It leaves the reader with the impression that he has
+been in touch with a mind of altogether exceptional learning, tact, and
+penetration. All these are qualities that we have learned to expect from the
+work of Professor Collingwood... but here is something even better than he could
+have expected. It is a delight to witness the masterly unfolding of its
+argument; it is equally a delight to follow the author when he steps aside from
+the exposition of his main thesis to reinterpret Plato's remarks on art, to
+expose the 'quibbles and sophistry' of Freud's views on magic, or to give us his
+reflections on the condition of art yesterday and today." (2007, 184)
+
+
 
 ## Friedrich Hayek
 
