@@ -376,6 +376,25 @@ the exposition of his main thesis to reinterpret Plato's remarks on art, to
 expose the 'quibbles and sophistry' of Freud's views on magic, or to give us his
 reflections on the condition of art yesterday and today." (2007, 184)
 
+He concludes the review with:
+
+"If there is anyone who, because of the nonsense he has been obliged to read,
+doubts whether a philosopher can talk sense about art, let him read this book...
+Anyone who can take pleasure in a profound and critical piece of philosophical
+thinking will find it a delight." (2007, 186)
+
+In reviewing Collingwood's *The Idea of History*, Oakeshott wrote:
+
+"Collingwood's genius led him to perceive that, while for three centuries
+philosophy had concerned itself primarily with the logical and epistemological
+problems thrown up by natural science, little discussion had been given to the
+no less difficult problem of the character and possibility of historical
+knowledge. It may be said that, with the single exception of Croce, he is the
+only philosopher of first-class ability to give prolonged and concentrated
+attention to this problem. *The Idea of History* contains all that is
+recoverable of his achievement in this direction." (2007, 197)
+
+
 
 
 ## Friedrich Hayek
