@@ -201,7 +201,7 @@ events into a doctrine, the escape was an illusion." (1962, 31)
 Oakeshott: "Marxism and the Open Mind" (2008, 137-138)
 
 
-# Nietzsche
+## Nietzsche
 
 
 In reviewing *Nietzsche: an Approach* by Janko Lavrin, Oakeshott noted that
@@ -344,7 +344,7 @@ of "ideal types" in his essay, "Historical Events" (2004, 49-104;
 
 
 
-## Ludwig von Mises
+## R.G. Collingwood
 
 
 ## Friedrich Hayek

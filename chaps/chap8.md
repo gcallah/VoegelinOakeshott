@@ -1,4 +1,14 @@
-# VIII. For This Is All a Dream We Dreamed One Afternoon Long Ago
+# VIII. The Quest for the Common Good
+
+
+
+Even Oakshott's refusal to allow philosophizing a legitimate role in guiding
+practical affairs can be understood as a concern for the coming good. Much like
+Leo Strauss, he saw the danger that philosophers could present to the myth of
+the polity upon which its continued existence might depend.
+
+
+
 
 In his brief essay "Leviathan: A Myth," Oakeshott remarks that a civilization
 is "at bottom a collective dream" (2000: 159). He continues, "What a people

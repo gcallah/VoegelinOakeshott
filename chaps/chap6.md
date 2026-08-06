@@ -26,7 +26,13 @@ life, and it is this, and not his political opinions, which it is profitable
 for a later and different age to study." (2007, 111)
 
 Basil Willey:
-"That philosophers often entertain ambitions extraneous to philosophy is known well enough, and that some of them appear to be unable to prevent these ambitions from contaminating their writings is a sad fact; but to select one of these extraneous purposes -- that of preacher -- as the significant characteristic of a piece of philosophical writing appears to me to indicate a misconceived approach to the study of philosophy, and the result is likely to be anything but remunerative.  112
+"That philosophers often entertain ambitions extraneous to philosophy is known
+well enough, and that some of them appear to be unable to prevent these
+ambitions from contaminating their writings is a sad fact; but to select one of
+these extraneous purposes -- that of preacher -- as the significant
+characteristic of a piece of philosophical writing appears to me to indicate a
+misconceived approach to the study of philosophy, and the result is likely to be
+anything but remunerative.  112
 
 
 
@@ -47,6 +53,43 @@ the Conversation of Mankind." Whether that hypothesis is true or not
 is of no importance to anything else said here, so I will not derail us with a
 discussion of it.
 
+
+
+Laird And Middle Ages 
+
+"the connection between Hobbes and the philosophy, particularly the political
+philosophy, of the Middle Ages." (2007, 114)
+
+"he concludes that, however startling Hobbian novelties may be, they are
+nevertheless 'the moves of a master player who knew and kept to the medieval
+rules'" 
+
+Oakshott then notes that Hobbes had learned far more from Aristotle than his
+occasional "truculence" would lead us to believe. 
+
+"We are no longer pledged to find in these writings nothing but the gospel of
+modern materialism; and we know that even if that is still to be found, the
+philosophy of Hobbes is in the nature of a palimpsest." 2007, 115
+
+Indeed, on re-reading Leviathan recently, I was struck by the fact that the
+materialistic psychology with which it opens could be completely excised, and
+the political philosophy which follows would stand on its own. 
+
+
+"For there can be no doubt that Hobbes's writings do represent a profound
+revolution in European thought, there can be no doubt that he was one of the
+most original of philosophers..." 2007, 115
+
+
+Oakeshaw praises Professor Brandt's work, *Thomas Hobbes' Mechanical Conception
+of Nature*, for its detailed explanation of how Hobbes came to embrace the
+mechanical philosophy and develop his own ideas on the subject.  To those who
+might complain that such a detailed examination of the development of the ideas
+of a long-dead philosopher is of little importance, Oakeshott responds:
+
+"For what we must know about a philosopher, if we are to understand his
+philosophy, is not merely *what* he thought, but also *why* he thought it"
+(2007, 116).
 
 
 

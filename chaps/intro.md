@@ -122,3 +122,40 @@ But occasionally there were passages where the harmony was difficult to
 imagine, and the sounded by each of the voices seemed inherently discordant.
 Exploring the presence of those dissonances within that larger harmonic structure
 is the aim of this book. 
+
+## The Aim of This Book
+
+
+What I have attempted to compose here is a duet; the voices of Oakeshott and
+Voegelin proceed in counterpoint, centered around one theme after another:
+philosophy, history, rationalism, political philosophy, their understanding of a
+selection of other thinkers, their understanding of Thomas Hobbes, and the
+common good.
+
+ A requirement, if my effort had any chance at success, was to not "pick" either
+ of the two voices and favor it while restraining the other. My job, as I
+ understood it, is not to "tout" the superiority of one of these voices over the
+ other, but to present each of them with her full range and subtlety, and allow
+ the reader, at the least, to enjoy the interplay. 
+
+
+In Chapter 5, the harmony expands, and Oakeshott and Voegelin's voices play
+against those of a dozen other significant thinkers whom both of them addressed
+at some point. 
+
+
+
+Did Oakeshot or Voegelin ever used the phrase "common good". 
+
+So it might seem strange to give this book the subtitle that it has. 
+
+There's an interesting debate going on at present about whether such a thing as
+the common good exists, and if it does exist, what it consists of, and what the
+right means are with which to move towards it. Of course, by including this
+phrase in my subtitle, I'm connecting this work to that debate. Such a maneuver
+might increase sales, but in the case of an academic book, that might mean
+increasing from 300 sales to 400 sales. What is of more importance is that, by
+attracting people interested in that debate, this book might show them two
+profound ways to understand the idea of a common good. 
+
+

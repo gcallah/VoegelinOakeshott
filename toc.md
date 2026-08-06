@@ -7,10 +7,10 @@ Gene Callahan, New York University
 ## [Introduction](chaps/intro.md)
 
 
-## [I. Philosophy: Experience Without Reservation or Arrest](chaps/chap1.md)
+## [I. Experience Without Reservation or Arrest](chaps/chap1.md)
 
 
-## [II. Philosophy of History](chaps/chap2.md)
+## [II. History](chaps/chap2.md)
 
 
 ## [III. Rationalism and Gnosticism](chaps/chap3.md)
@@ -28,7 +28,7 @@ Gene Callahan, New York University
 ## [VII. The Fork's Impact on the Political Philosophy of Oakeshott and Voegelin](chaps/chap7.md)
 
 
-## [VIII. For This Is All a Dream We Dreamed One Afternoon Long Ago](chaps/chap8.md)
+## [VIII. The Quest for the Common Good](chaps/chap8.md)
 
 
 ## [Conclusion](chaps/conclusion.md)
