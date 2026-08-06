@@ -24,7 +24,7 @@ impossible to see how knowledge could ever spring from it" (1993:
 Voegelin also sees the quest for understanding as grounded in knowledge
 which is nevertheless ignorance:
 
-"without questioning in confusion, \[there would be\] no consciousness
+"without questioning in confusion, there would be no consciousness
 of ignorance. There would be no existential unrest moving toward the
 quest of the ground unless the unrest was already man's knowledge of
 existence from a ground that he is not himself." (1990a: 273)
@@ -33,7 +33,37 @@ existence from a ground that he is not himself." (1990a: 273)
 
 Vogelin on zetesis.
 
-MO quotes to the same effect.
+
+Contrary to those who have held that Oakeshott abandoned the understanding of
+philosophy he put forward in *Experience and Its Modes*, we find him
+characterizing  philosophy almost precisely the same way fifteen years later:
+"Philosophical thought and knowledge is simply thought and knowledge without
+reservation or presupposition...  philosophy is merely what occurs when thought
+is allowed to follow its own bent with unqualified freedom" (1993, 127).
+
+In an essay entitled "Political Philosophy," Oakeshott presents us with a vivid
+metaphor for the pursuit of philosophy:
+
+"The Enterprise and Reflection may be likened to ascending a tower liberally
+supplied with windows at every level. The world scene from the ground floor is
+the world with which all reflection begins. But as we climb, the scene changes:
+the ascent brings into view what was before invisible, and in each new level a
+new world appears. Now, within the corners of this figure, it might be
+suggested that different forms of reflective enterprise are distinguished from
+one another merely in respect of the height to which the climber is disposed to
+climb , the philosopher being prepared to go on where the others are content to
+stop. But this... is not the primary ground of the distinction between
+philosophy and other... forms of the reflective enterprise. What a bottom
+distinguishes different forms of reflection is not the willingness or
+unwillingness to continue to climb but the willingness or unwillingness of the
+thinker to carry with him to higher levels the fixed and remembered relics of
+the view as it appeared at a lower level , the willingness or unwillingness to
+allow what was once seen to determine a later vision... for example come at
+the ground level the historian may see and identify... a battle... at each new
+level... The significance of the battle may change but the battle always
+remains a battle. Philosophical reflection, on the other hand, is what happens
+when the kind of anchorage is rejected , each scene being permitted fully to
+supersede the one before." (1993, 142-143)
 
 Oakeshott:
 "There will always be new philosophy, and what is new is valuable, even if it is
