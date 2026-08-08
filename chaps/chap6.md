@@ -81,7 +81,7 @@ revolution in European thought, there can be no doubt that he was one of the
 most original of philosophers..." 2007, 115
 
 
-Oakeshaw praises Professor Brandt's work, *Thomas Hobbes' Mechanical Conception
+Oakeshott praises Professor Brandt's work, *Thomas Hobbes' Mechanical Conception
 of Nature*, for its detailed explanation of how Hobbes came to embrace the
 mechanical philosophy and develop his own ideas on the subject.  To those who
 might complain that such a detailed examination of the development of the ideas
@@ -106,10 +106,29 @@ he describes how, for many English thinkers, Hobbes and Locke are two
 "blocks" preventing the recognition of "a larger horizon of a truth of
 existence" (1990b: 154).
 
+In his essay "The Oxford Political Philosophers," Voegelin brings Hobbes's to
+bear on the question of freedom of conscience:
+
+""Under the impression of the Puritan Revolution, one of the greatest
+psychologists of all times laid down the rule that men who are moved by their
+religious conscience to civil war, for the purpose of imposing their creed on
+others, are not moved by the spirit, but are guilty of pride, of *superbia* in
+the Augustinian sense, to the point of madness. Hobbes diagnosed passionate
+self-assertion, the *amor sui*, as the formative force of the Puritan
+conscience; he understood its dictates as a manifestation of *libido dominandi*,
+not of the spirit of Christ... Hobbes, to be sure, was in error himself when he
+assumed that there was no such thing as a true spiritual orientation of the soul
+through *amor Die* and that every conscientious conviction, when in conflict
+with the civil order, was thereby proven evil." (11, 35)
+
+(And in a footnote, Voegelin cites the introduction to Leviathan of   "Mr. Oakeshott.")
+
+
+
 Voegelin discusses Hobbes extensively in *The New Science of Politics*,
 and it is worth quoting him at some length here:
 
-\"\"\" The function of Gnosticism as the civil theology of Western
+"The function of Gnosticism as the civil theology of Western
 society, its destruction of the truth of the soul, and its disregard for
 the problem of existence have been set forth in sufficient detail to
 make the fatal importance of the problem clear. The inquiry can now
@@ -173,9 +192,10 @@ philosophers.' With the *summum bonum*, however, disappears the source
 of order from human life; and not only from the life of individual man
 but also from life in society; for, as you will remember, the order of
 the life in community depends on *homonoia*, in the Aristotelian and
-Christian sense, that is, on the participation in the common *nous*.
+Christian sense, that is, on the participation in the common *nous*."
+(2000d, 233-234)
 
-(2000d, 233-234) \"\"\"
+
 
 Let us now look at the role of Hobbes in Oakeshott's thought, as
 described by Timothy Fuller:

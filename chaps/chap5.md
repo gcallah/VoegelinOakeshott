@@ -395,6 +395,20 @@ attention to this problem. *The Idea of History* contains all that is
 recoverable of his achievement in this direction." (2007, 197)
 
 
+The only entries for Collingwood in the cumulative index of Voegelin's works are
+to an essay entitled "The Oxford Political Philosophers," and only offers any
+in-depth analysis of Collingwood's political tract, *New Leviathan*.
+
+
+"The tradition is both preserved and renewed in Mr. Collingwood's *New Leviathan*,
+where the dualism, in the more secular form of 'Civilization' and 'Barbarism,'
+is erected into the principle that defines political cultures and governs the
+process of history. This dualistic formula, while adequately expressing the
+political perspective of a gnostic metaphysician, will, however, not pass the
+test of critical application." (11, 33)
+
+
+
 
 
 ## Friedrich Hayek
