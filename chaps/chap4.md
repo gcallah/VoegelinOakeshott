@@ -1,4 +1,4 @@
-# IV. What Is Political Philosophy to Philosophy?
+# IV. Politics
 
 ## The Relation of Political Experience to Experience as a Whole
 

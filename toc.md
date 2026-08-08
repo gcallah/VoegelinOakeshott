@@ -1,6 +1,4 @@
-# To Be Perpetually en Voyage:
-
-## Michael Oakeshott and Eric Voegelin on the Nature of Philosophy
+# Oakeshott and Voegelin: The Quest for the Common Good
 
 Gene Callahan, New York University
 
@@ -16,10 +14,10 @@ Gene Callahan, New York University
 ## [III. Rationalism and Gnosticism](chaps/chap3.md)
 
 
-## [IV. Political Philosophy](chaps/chap4.md)
+## [IV. Politics](chaps/chap4.md)
 
 
-## [V. Their Antecedents and Contemporaries](chaps/chap5.md)
+## [V. Oakeshott and Voegelin Among Their Antecedents and Contemporaries](chaps/chap5.md)
 
 
 ## [VI. Hobbes: The Fork in the Road](chaps/chap6.md)

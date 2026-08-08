@@ -407,6 +407,14 @@ process of history. This dualistic formula, while adequately expressing the
 political perspective of a gnostic metaphysician, will, however, not pass the
 test of critical application." (11, 33)
 
+"Since philosophy is an integral part of Western civilization, a figure in the
+intellectual landscape that cannot be ignored, the indulgence in civil theology
+is hardly possible... without constructions that will decently screen the
+nuisance from sight... Of the various constructions used for this purpose,
+Collingwood's merits special attention for its technical brilliance of
+execution, as well as for its high degree of deliberateness." (2000a, 41)
+
+
 
 
 

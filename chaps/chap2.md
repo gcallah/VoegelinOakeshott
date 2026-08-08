@@ -26,4 +26,12 @@ makes a work history proper, rather than the use of the materials of history
 for some non-historical purpose.
 
 
+Voegelin:
+"Is [a thinker] really entitled to hold a belief concerning the meaning of
+history, although he perfectly well knows... that the meaning of history, its
+essence or *eidos*, is unknown because history extends into the future and hence
+is not a thing whose eidos can be known?" (2000a, 44)
+
+
+
 
