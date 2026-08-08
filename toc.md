@@ -25,10 +25,9 @@ Gene Callahan, New York University
 ## [VI. Hobbes: The Fork in the Road](chaps/chap6.md)
 
 
-## [VII. The Fork's Impact on the Political Philosophy of Oakeshott and Voegelin](chaps/chap7.md)
 
 
-## [VIII. The Quest for the Common Good](chaps/chap8.md)
+## [VII. The Quest for the Common Good](chaps/chap8.md)
 
 
 ## [Conclusion](chaps/conclusion.md)
