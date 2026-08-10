@@ -225,6 +225,37 @@ their personality and whose natural voice is that of the prophet rather than
 that of the philosopher." (2007, 136)
 
 
+In an essay entitled "Nietzsche, the Crisis, and the War," Voegelin writes:
+
+"A philosopher who is sensitive to symptoms of decay in the spiritual situation
+of his age will be able to chart the course of a social disintegration for a
+considerable time ahead. Nietzsche had this sensitiveness in the highest
+degree... he says: 'What I have to tell is the history of the next two
+centuries. I describe what is coming, and what can but be coming in this way:
+*the advent of Nihilism*...'" (10, 127)
+
+Voegelin points out that If Nietzsche is correct about the creeping nihilism he
+already saw all around him, then his work could not possibly have been the cause
+of  something that already existed. On the other hand, if he was incorrect, then
+this "would imply the fantastic assumption that a healthy Western world began to
+show symptoms of nihilism and began drifting toward the predicted catastrophe
+because a philosopher chose to publish a false analysis of the situation." (10,
+127)
+
+To update the imagery with which Nietzsche has Zarathustra describe the "last
+man," he's a fellow who is happy to have a moderately easy job that leaves him
+alone when he's not at work, a big flat-screen TV to watch football on the
+weekends, a nice pickup truck, and a bunch of bar buddies he can hang out with.
+but this happy, hobbit-like existence (Credit Curtis Yarvin) cannot last:
+
+"Despiritualized happiness is the twin brother of despiritualized brutality;
+once the spiritual order of the soul is dissolved in happiness, it is only a
+question of time and circumstance when and from which quarter the attack on an
+order without dignity will begin." (10, 129)
+
+
+
+
 
 ## Max Weber
 
