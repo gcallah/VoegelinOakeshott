@@ -11,7 +11,7 @@ Gene Callahan, New York University
 ## [II. History](chaps/chap2.md)
 
 
-## [III. Rationalism and Gnosticism](chaps/chap3.md)
+## [III. Rationalism, Scientism and Gnosticism](chaps/chap3.md)
 
 
 ## [IV. Politics](chaps/chap4.md)
