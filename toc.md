@@ -25,7 +25,7 @@ Gene Callahan, New York University
 
 
 
-## [VII. The Quest for the Common Good](chaps/chap8.md)
+## [VII. The Quest for the Common Good](chaps/chap7.md)
 
 
 ## [Conclusion](chaps/conclusion.md)

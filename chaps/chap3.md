@@ -1,4 +1,15 @@
-# III. Rationalism
+# III. Rationalism,Scientism,and Gnosticism
+
+Here, we are going to explore a cluster of related concepts and see how they relate
+in the thought of Oakeshott and Voegelin.
+
+Neither man uses all three of the terms, as far as I can uncover.
+I find no references to rationalism, in the sense Oakeshott uses it,
+in the works of Voegelin. Nor have I been able to uncover Oakeshot
+using the term scientism. Yet despite only sharing the Gnostic entry in our trio,
+the two of them are clearly dealing with related phenomena when they enter this
+thought complex. 
+
 
 ## Oakeshott on Rationalism
 
