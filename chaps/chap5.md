@@ -460,6 +460,18 @@ execution, as well as for its high degree of deliberateness." (2000a, 41)
 
 
 
+## The Character of the Germans
+
+"the suppression of the consciousness of crisis through the projection of evil
+into the German character" (10, 144).
+
+
+Describing Stefan George's poem "The War," Voegelin writes:
+
+"On the one side, German, the envy to share the prosperity of the other, and the
+burning wish to become themselves thoroughly what they blame the others for
+being" (10, 145).
+
 ## Friedrich Hayek
 
 
