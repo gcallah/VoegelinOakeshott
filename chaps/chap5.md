@@ -497,6 +497,9 @@ worthy of Pascal" (2008, 144).
 
 
 
+## Albert Camus
+
+
 ## Leo Strauss
 
 Oakeshott reviewed Strauss's *The Political Philosophy of Hobbes*
