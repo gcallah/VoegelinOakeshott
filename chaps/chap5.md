@@ -208,8 +208,12 @@ In reviewing *Nietzsche: an Approach* by Janko Lavrin, Oakeshott noted that
 at that time (1948) "We are beginning to have an opportunity to observe the man
 in his work unembarrassed by the exaggerated reverence of his injudicious
 admirers, the mistaken enthusiasm of the culture-philistines up from the
-suburbs, and the protests of the injured" (2007, 224). When understood
-properly, he contended, Nietzsche offers:
+suburbs, and the protests of the injured" (2007, 224). (Compare this to
+Voegelin's complaint about "the gross misuse of Nietzsche's work that is implied
+in the interpretation as Nietzschean precisely those attitudes which he condemned"
+[2000e, 146].)
+
+When understood properly, Oakeshott contended, Nietzsche offers:
 
 "A profound and imaginative diagnosis of a crisis in European culture. He
 sounded an alarm... He elaborated his diagnosis in detail with untiring insight
@@ -232,15 +236,15 @@ of his age will be able to chart the course of a social disintegration for a
 considerable time ahead. Nietzsche had this sensitiveness in the highest
 degree... he says: 'What I have to tell is the history of the next two
 centuries. I describe what is coming, and what can but be coming in this way:
-*the advent of Nihilism*...'" (10, 127)
+*the advent of Nihilism*...'" (2000e, 127)
 
 Voegelin points out that If Nietzsche is correct about the creeping nihilism he
 already saw all around him, then his work could not possibly have been the cause
 of  something that already existed. On the other hand, if he was incorrect, then
 this "would imply the fantastic assumption that a healthy Western world began to
 show symptoms of nihilism and began drifting toward the predicted catastrophe
-because a philosopher chose to publish a false analysis of the situation." (10,
-127)
+because a philosopher chose to publish a false analysis of the situation."
+(2000e, 127)
 
 To update the imagery with which Nietzsche has Zarathustra describe the "last
 man," he's a fellow who is happy to have a moderately easy job that leaves him
@@ -251,7 +255,7 @@ but this happy, hobbit-like existence (Credit Curtis Yarvin) cannot last:
 "Despiritualized happiness is the twin brother of despiritualized brutality;
 once the spiritual order of the soul is dissolved in happiness, it is only a
 question of time and circumstance when and from which quarter the attack on an
-order without dignity will begin." (10, 129)
+order without dignity will begin." (2000e, 129)
 
 Nietzsche predicted "immense wars, revolutions, explosions" in the near future.
 As Voegelin understands him: 
@@ -259,7 +263,7 @@ As Voegelin understands him:
 "The impending wars are the expression of a pneumo-pathological situation; they
 express the struggle of instincts, a blind preservation of a *status quo*, and
 of attacks on the *status quo* by unfettered force; but while they have motives,
-they have no orientation toward purposes." (10, 129)
+they have no orientation toward purposes." (2000e, 129)
 
 Page 131, there can be no doubt. 
 
@@ -463,14 +467,14 @@ execution, as well as for its high degree of deliberateness." (2000a, 41)
 ## The Character of the Germans
 
 "the suppression of the consciousness of crisis through the projection of evil
-into the German character" (10, 144).
+into the German character" (2000e, 144).
 
 
 Describing Stefan George's poem "The War," Voegelin writes:
 
 "On the one side, German, the envy to share the prosperity of the other, and the
 burning wish to become themselves thoroughly what they blame the others for
-being" (10, 145).
+being" (2000e, 145).
 
 ## Friedrich Hayek
 
