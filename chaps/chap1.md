@@ -18,7 +18,7 @@ We begin with knowledge, which is nevertheless assumed to be
 ignorance... If, then, human beings were absolutely ignorant, it is
 impossible to see how they could ever reflect or ever acquire knowledge.
 If it were possible to enjoy an experience of mere 'observation', it is
-impossible to see how knowledge could ever spring from it" (1993:
+impossible to see how knowledge could ever spring from it" (1993a:
 138-139).
 
 Voegelin also sees the quest for understanding as grounded in knowledge
@@ -39,7 +39,7 @@ philosophy he put forward in *Experience and Its Modes*, we find him
 characterizing  philosophy almost precisely the same way fifteen years later:
 "Philosophical thought and knowledge is simply thought and knowledge without
 reservation or presupposition...  philosophy is merely what occurs when thought
-is allowed to follow its own bent with unqualified freedom" (1993, 127).
+is allowed to follow its own bent with unqualified freedom" (1993a, 127).
 
 In an essay entitled "Political Philosophy," Oakeshott presents us with a vivid
 metaphor for the pursuit of philosophy:
@@ -63,7 +63,7 @@ the ground level the historian may see and identify... a battle... at each new
 level... The significance of the battle may change but the battle always
 remains a battle. Philosophical reflection, on the other hand, is what happens
 when the kind of anchorage is rejected , each scene being permitted fully to
-supersede the one before." (1993, 142-143)
+supersede the one before." (1993a, 142-143)
 
 Oakeshott:
 "There will always be new philosophy, and what is new is valuable, even if it is
@@ -76,7 +76,7 @@ Oakeshott rejects the idea that the essence of philosophy is to create a
 "philosophical system":
 
 "The aim in philosophical reflection is to think philosophically, not to
-construct a 'philosophy'" (1993: 130).
+construct a 'philosophy'" (1993a: 130).
 
 Compare that with Voegelin, from the essay "Remembrance of Things Past":
 
@@ -121,7 +121,7 @@ Or, fifteen or so years later, he writes:
 all such fixed points of reference, one designed to remain fluid, one
 for which no presupposition was sacred, would not improperly be called
 *radically subversive*. This, I believe, is this distinguishing
-characteristic of philosophical reflection." (1993: 141)
+characteristic of philosophical reflection." (1993a: 141)
 
 Voegelin says something very similar in this passage:
 

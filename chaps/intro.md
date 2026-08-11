@@ -93,8 +93,10 @@ decades later, we see the modality of the past being described in a way that
 would have fit right into the earlier book. In fact, only once does Oakeshott
 offer any major amendment to what he wrote in that first book, when, in "The
 Voice of Poetry in the Conversation of Mankind," he recognizes art as a separate
-mode from practical experience. Of course, he was always developing new ideas,
-but all of them fit within the framework of that first book.
+mode from practical experience. Of course, he was always developing new ideas --
+as Kenneth Minogue wrote, "Oakeshott recognized every new task as a new
+opportunity to rethink the fundamentals of what he was doing" (Oakeshott 1993b: viii) --
+but most of them fit within the framework of that first book.
 
 Voegelin, on the other hand, altered his ideas enough so that he decided to
 abandon a seven-volume history of political thought that was essentially

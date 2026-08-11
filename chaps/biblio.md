@@ -50,8 +50,12 @@
   From the Hoover Institution Archives, photocopied by Luke O'Sullivan and sent
   to me in private correspondence.
 
-- Oakeshott, Michael (1993) *Religion, Politics, and the Moral Life*,
+- Oakeshott, Michael (1993a) *Religion, Politics, and the Moral Life*,
   ed. Timothy Fuller, Yale University Press: New Haven and London.
+
+- Oakeshott, Michael (1993b) *Morality and Politics in Modern Europe: The
+    Harvard Lectures*,
+  ed. Shirley Robin Letwin, Yale University Press: New Haven and London.
 
 - Oakeshott, Michael (2004) *What Is History? and other essays*,
   Imprint Academic: Exeter.

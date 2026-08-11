@@ -9,7 +9,7 @@ duty if either of two conditions were satisfied. If political activity were the
 only adequate expression of a sensibility for the communal interest of a society
 or of mankind, or if it were incomparably the most important and most effective
 expression of such a sensibility – in either of these cases it might fairly be
-held that a universal duty exists to take part in it." (1993, 91)
+held that a universal duty exists to take part in it." (1993a, 91)
 
 So although Oakeshott is not using the phrase "common good," he clearly accepts
 its existence, and feels it is a duty of people to help sustain it. but he goes
@@ -26,7 +26,7 @@ by making a society conscious of its own character.… This is the truth of a
 neglected half-truth that the artist and the poet and the philosopher are and
 should remain separated from 'the world'; not because they have no part in the
 promotion of the communal interest of mankind, but because to be free from the
-world is the condition of their contribution." (1993, 95-96)
+world is the condition of their contribution." (1993a, 95-96)
 
 
 Even Oakshott's refusal to allow philosophizing a legitimate role in guiding

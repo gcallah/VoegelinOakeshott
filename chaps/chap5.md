@@ -23,10 +23,10 @@ with "experience" in its title, he looks to Plato to define experience:
 argument" (1933: 37). Over a decade later, when Oakeshott declares the
 method he will use in an essay, he also remarks "This, of course, is the
 philosophical method and aim presented to us in the Socratic dialogues;
-and it is one with which I see no reason to quarrel" (1993: 130). As
+and it is one with which I see no reason to quarrel" (1993a: 130). As
 Timothy Fuller says of all of Oakeshott's post-WWII essays, "These
 writings show a strong affinity for the Socratic style of
-philosophizing" (1993: 23).
+philosophizing" (1993a: 23).
 
 Voegelin, of course, devoted a 400-page book entirely to the work of
 Plato and Aristotle (2000b), and the cumulative index of Voegelin's
@@ -38,7 +38,7 @@ Oakeshott's and Voegelin's understanding of philosophy becomes apparent:
 does it have any practical value? For Oakeshott, the answer is a clear
 "no." As Fuller puts it, "But philosophy for Oakeshott is also,
 categorically, speaking, impractical. The search for truth has nothing
-to do with daily life." (1993: 19)
+to do with daily life." (1993a: 19)
 
 Meanwhile, for Voegelin its practical value is significant: in fact, the
 philosopher, through the order in his own soul, offers the polity its

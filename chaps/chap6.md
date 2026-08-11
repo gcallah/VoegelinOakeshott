@@ -205,7 +205,7 @@ insisting upon the separation of Christianity from all dependence on
 Aristotelian/scholastic teleology. I think he believed the Christianity,
 thus purged was far closer to expressing the truth of the human
 condition than anything derived from teleological theological
-philosophy/theology." (1993: 19)
+philosophy/theology." (1993a: 19)
 
 Notice how close this is to Voegelin's understanding of Hobbes's role in
 some English thinkers' attitude towards the classical/Christian
