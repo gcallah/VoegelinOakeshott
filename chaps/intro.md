@@ -85,6 +85,40 @@ follow him into regions of understanding which would otherwise have been closed
 to us, asking only that we should consider & reflect. We are all deeply
 indebted to him and are happy to acknowledge the debt." (1982)
 
+One notable difference between Oakeshott's and Voegelin's intellectual lives are
+in the amount their views changed during their lifetime. Oakeshott arrived at
+his lifelong philosophical view by the age of 30, in *Experience and Its Modes*.
+As we shall see, when one reads the opening to *On History*, written five
+decades later, we see the modality of the past being described in a way that
+would have fit right into the earlier book. In fact, only once does Oakeshott
+offer any major amendment to what he wrote in that first book, when, in "The
+Voice of Poetry in the Conversation of Mankind," he recognizes art as a separate
+mode from practical experience. Of course, he was always developing new ideas,
+but all of them fit within the framework of that first book.
+
+Voegelin, on the other hand, altered his ideas enough so that he decided to
+abandon a seven-volume history of political thought that was essentially
+complete and start over from scratch.
+
+Both Oakeshott and Voegelin were voracious readers. But while, for Voegelin,
+this is obvious from the citations in his works, one could read every book that
+Oakeshott published during his life and have no idea of how much he had read. It
+was only when Luke O'Sullivan began to collect his book reviews, along with
+essays published in various outlets, that it became apparent to those of us only
+acquainted with him through the earlier books just how much he read. I have
+counted XXX reviews that have appeared now in one published book or another, and
+I probably have missed some. Oakeshott reviewed books on religion, philosophy,
+the history of science, political science, policy proposals, historiography,
+histories of very specific interludes of the past, such as YYY, and more.
+
+ As we shall see later, Oakeshott wrote a very cogent critique of Max Weber's
+ idea that history was done by identifying ideal types appearing in the past and
+ explaining what happened in terms of those types. But although, as again we
+ will see, he clearly knew Weber's work, he does not mention him by name
+ anywhere in his critique. Perhaps, you might ask, did he just get the idea from
+ somebody else? But there is no reference at all to whom it is that forwards the
+ view being critiqued.
+
 
 ## My Own Journey with Oakeshott and Voegelin
 

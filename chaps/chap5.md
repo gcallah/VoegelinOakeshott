@@ -253,6 +253,16 @@ once the spiritual order of the soul is dissolved in happiness, it is only a
 question of time and circumstance when and from which quarter the attack on an
 order without dignity will begin." (10, 129)
 
+Nietzsche predicted "immense wars, revolutions, explosions" in the near future.
+As Voegelin understands him: 
+
+"The impending wars are the expression of a pneumo-pathological situation; they
+express the struggle of instincts, a blind preservation of a *status quo*, and
+of attacks on the *status quo* by unfettered force; but while they have motives,
+they have no orientation toward purposes." (10, 129)
+
+Page 131, there can be no doubt. 
+
 
 
 
