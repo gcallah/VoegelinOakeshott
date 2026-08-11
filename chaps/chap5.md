@@ -265,7 +265,26 @@ express the struggle of instincts, a blind preservation of a *status quo*, and
 of attacks on the *status quo* by unfettered force; but while they have motives,
 they have no orientation toward purposes." (2000e, 129)
 
-Page 131, there can be no doubt. 
+"the critic who wishes to evade the issues raised by Nietzsche can easily
+extract from the sixteen volumes the materials for a caricature that makes him
+forget the sound analysis of the crisis" (2000e, 148).
+
+
+Voegelin closes that essay as follows: 
+
+"With the aggressive outbreak of 1888, finally, Nietzsche enters the political
+scene himself. Nietzsche places himself on the world scene as the antagonist of
+Wagner and Bismarck, as the dominating figure of the age to whom the honors and
+the following are due, which incongruously are accorded to the false apostles:
+'I am the bringer of *good tidings*, as there never has been one; I know tasks
+of a loftiness that the very idea of them has been missing as yet; only from me
+onward, are their hopes again... Only from me onward is there on earth *Great
+Politics*...' This has the touch of a magical murder, from the sphere of
+Bismarck to the sphere of Nietzsche; Nietzsche has replaced Bismarck as the
+master of great politics." (2000e, 156)
+
+It is analysis above, we can see the attention Voegelin paid to magical operations
+being performed in the political arena.
 
 
 
