@@ -108,10 +108,11 @@ Oakeshott published during his life and have no idea of how much he had read. It
 was only when Luke O'Sullivan began to collect his book reviews, along with
 essays published in various outlets, that it became apparent to those of us only
 acquainted with him through the earlier books just how much he read. I have
-counted XXX reviews that have appeared now in one published book or another, and
+counted 173 book reviews that have appeared now in one published book or another, and
 I probably have missed some. Oakeshott reviewed books on religion, philosophy,
-the history of science, political science, policy proposals, historiography,
-histories of very specific interludes of the past, such as YYY, and more.
+the philosophy of science, the history of science, political science, policy
+proposals, historiography, histories of very specific interludes of the past,
+such as the Chatham administration of the 1760s or William of Wykeham, and more.
 
  As we shall see later, Oakeshott wrote a very cogent critique of Max Weber's
  idea that history was done by identifying ideal types appearing in the past and
