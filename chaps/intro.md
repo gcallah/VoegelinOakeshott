@@ -1,4 +1,4 @@
-# Introduction
+i# Introduction
 
 ## What Is Philosophy?
 
@@ -14,7 +14,7 @@ not by the supposed possession of wisdom captured in a "system," such as
 "phenomenology" or "transcendental idealism" or "materialist
 reductionism."
 
-This book is abnout two twentieth-century thinkers who understood
+This book is about two twentieth-century thinkers who understood
 philosophy much as did its Greek founders: Michael Oakeshott and Eric
 Voegelin. Although not often thought of primarily as philosophers, but
 more so as political theorists, each of them regarded himself as a
