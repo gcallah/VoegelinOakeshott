@@ -139,7 +139,7 @@ disorder of the age." (1990a: 306)
 Voegelin: "There is no other reality than that of which we have experience" (xxxx, 170).
 
 
-## The Relation of Philosophy and Practical Life
+## The Relation of Philosophy and Practical Life and Other Modes
 
 When he was writing *Experience and Its Modes*, Oakeshott's understanding of the
 relevance of philosophy to practical life was that there is none: "Is
@@ -150,7 +150,11 @@ In 1938, we find him expressing much the same view: "The notion that the
 business of a philosophy of any sort is actually to determine ends is, I think,
 false" (2007, 167). And he goes on to argue that, in making moral judgments,
 "the philosopher as such is in no better position to give than any other member
-of society" (2007, 167).
+of society" (2007, 167). But already the strict separation of philosophy and
+the modes is beginning to be softened; and so he writes: "And what I have said,
+and what I shall say about the nature of a philosophical inquiry, I have not
+been drawing merely my own personal convictions; I have been describing what I
+have learned from the history of philosophy" (2000e, 172).
 
 
 EV: "political philosophers are not much of a cause in history, insofar as any
