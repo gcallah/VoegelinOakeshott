@@ -1,4 +1,4 @@
-# III. Rationalism,Scientism,and Gnosticism
+# III. Rationalism, Scientism, and Gnosticism
 
 Here, we are going to explore a cluster of related concepts and see how they relate
 in the thought of Oakeshott and Voegelin.
@@ -71,3 +71,9 @@ instrument for man's understanding of his own position in the universe is lost."
 
 "The subordination of theoretical relevance to method perverts the meaning of
 science on principle" (2000c, 92).
+
+
+"The seventeenth- and eighteenth-century rationalism may still preserve deistic forms, and in
+that sense an element of transcendentalism; and it may try to avoid a rupture
+with the church as a social institution, but the ideas of man and community have
+become essentially secularized." (2000e, 37)
