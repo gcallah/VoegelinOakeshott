@@ -34,4 +34,15 @@ is not a thing whose eidos can be known?" (2000a, 44)
 
 
 
+EV: "A first answer to these questions could be the assumption that the history
+of political ideas does not show an internal structure of meaning at all, and
+that, as a consequence, the historian can do nothing but record ideas concerning
+political problems in their chronological order." (2000e, 159)
+
+EV: "The result would be not a history, if by history we understand the
+unfolding of a pattern of meaning in time, but a chronological encyclopaedia."
+(2000e, 159-160)
+
+
+
 
