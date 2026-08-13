@@ -139,7 +139,35 @@ disorder of the age." (1990a: 306)
 Voegelin: "There is no other reality than that of which we have experience" (xxxx, 170).
 
 
+## Modality
+
+As I am writing now, there is a rug from South Africa hanging on the wall in
+front of me. The idea of modality is that I can be looking at this rug from a
+variety of standpoints, each of which has its own inherent logic, but none of
+which is capable of taking the place of or explaining away the reality of any of
+the other ones.
+
+So, for example, I can be regarding the rug in the aesthetic mode, and
+contemplating the pattern of shapes and lines that the artist has presented to
+me. Or I can be looking at it in the practical mode, and appreciating the fact
+that, sitting as it is behind the TV set, it helps deaden the sound of the TV
+for those in the next room. Or I might look at it in the historical mode, and
+consider it as evidence to be used in a historical exploration of rug weaving in
+South Africa And I might also look at it in a scientific mode, and wonder about
+the chemical composition of the elements of the rug before me.
+
+Oakeshott would further point out that all of these are perfectly valid, if
+limited, ways of viewing the rug, none of them capable of taking the place of
+any of the others. For example, no chemical analysis of the rug can ever take
+the place of an historical investigation of the rug as a piece of evidence in
+composing an historical account  of the culture which produced it
+
+
+
 ## The Relation of Philosophy and Practical Life and Other Modes
+
+
+
 
 When he was writing *Experience and Its Modes*, Oakeshott's understanding of the
 relevance of philosophy to practical life was that there is none: "Is
