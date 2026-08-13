@@ -20,7 +20,41 @@ efforts to preserve and to change; it is not to prescribe courses of
 action" (2024: 152).
 
 
-## Ideolgies
+## Ideolgy
+
+In his Harvard lectures, Oakeshott distinguishes three levels of thinking about
+politics. The first level is immediately concerned with the question "What to
+do?" For example, "The Mongol army is nearing our border; what to do?" Or,
+"There is a terrible drought in the south; what to do?"
+
+The second level searches for general principles of action through which to
+categorize, better understand, and perhaps direct our actions. Oakeshott lists
+some of the abstractions generated at this level as "Liberalism, Socialism,
+Democracy, Imperialism, Colonialism, Despotism, Nationalism, Sovereignty,
+Capitalism, Fascism, the Welfare State, Republicanism" (1993b, 13-14)
+
+The third level instead of recommending particular actions or general schemes
+for guiding those actions, instead asks "what is the role of politics in human
+life as a whole?" We can call this level, political philosophy, and as examples
+Oakshott cites, "Plato's *Republic*, Spinoza's *Ethics*, Hobbes's *Leviathan* and
+Hegel's *Philosophie des Rechts*" (1993b, 14).
+
+He then offers an analogy in the field of home building: the first level is
+equivalent to the builders who are putting up a house, and making decisions such
+as how much pitch the roof needs. The second level is analogous to
+distinguishing different styles of architecture, and identifying one house as
+Victorian and another as craftsman style. And the third level might be called
+philosophy of architecture.
+
+Now the word "ideology" has been used in a number of ways, and it would be
+foolish to call any of them wrong. But a very useful way to use it, because it
+distinguishes a particular phenomena from just any thoughts whatsoever on a
+topic, is to designate as an ideology, any occasion, upon which the thinking at
+the second level becomes rigid, and attempts to dictate to practice what it may
+or may not build because of the dictates of, say, "the modernist school of
+architecture." And the analogous process in politics should be clear: we take a
+fuzzy guide to practice, such as "democracy," and turn it into a rigid "system" to
+which our political practice must conform.
 
 
 ### Liberalism
