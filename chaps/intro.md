@@ -129,14 +129,25 @@ science, policy proposals, historiography, histories of very specific
 interludes of the past, such as the Chatham administration of the 1760s or
 William of Wykeham, and more.
 
- As we shall see later, Oakeshott wrote a very cogent critique of Max Weber's
- idea that history was done by identifying ideal types appearing in the past and
- explaining what happened in terms of those types. But although, as again we
- will see, he clearly knew Weber's work, he does not mention him by name
- anywhere in his critique. Perhaps, you might ask, did he just get the idea from
- somebody else? But there is no reference at all to whom it is that forwards the
- view being critiqued.
+As we shall see later, Oakeshott wrote a very cogent critique of Max Weber's
+idea that history was done by identifying ideal types appearing in the past and
+explaining what happened in terms of those types. But although, as again we
+will see, he clearly knew Weber's work, he does not mention him by name
+anywhere in his critique. Perhaps, you might ask, did he just get the idea from
+somebody else? But there is no reference at all to whom it is that forwards the
+view being critiqued.
 
+How could we explain this vast discrepancy in their attitude toward citing
+sources in their work? I think a simplified but not inaccurate explanation
+would be to say that Voegelin was philosopher and a scholar; Oakeshott was a
+philosopher who read widely. And putting it this way, I don't mean to disparage
+either man: If A is a great figure skater as well as a great plumber,
+while B is only a great figure skater, it is ridiculous to declare that A Is
+the better figure skater simply by virtue of the fact that he also is a great
+plumber. It certainly adds to his virtue as a *human being*, but not to his
+virtue as a figure skater. And so I no way mean to suggest that Voegelin was a
+superior philosopher to Oakeshott, simply because he was also a highly skilled
+scholar, while Oakeshott was not particularly interested in being one. 
 
 ## My Own Journey with Oakeshott and Voegelin
 
