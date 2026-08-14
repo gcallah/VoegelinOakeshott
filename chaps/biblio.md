@@ -111,6 +111,10 @@
 - Voegelin, Eric (2000e) *Collected Works, Volume 10: Published Essays
   1940-1952*, University of Missouri Press: Columbia.
 
+- Voegelin, Eric (2000f) *Collected Works, Volume 15: Order and History, Volume
+  II: The World of the Polis*,
+  University of Missouri Press: Columbia.
+
 - Voegelin, Eric (2001) *Collected Works, Volume 13: Selected Book
   Reviews*, University of Missouri Press: Columbia and London.
 

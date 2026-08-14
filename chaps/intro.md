@@ -118,6 +118,13 @@ Another interesting difference is in their propensity to cite others.
 Both Oakeshott and Voegelin were voracious readers. But while, for Voegelin,
 this is obvious from the citations in his works, one could read every book that
 Oakeshott published during his life and have no idea of how much he had read.
+By way of illustration, in Oakeshott's 326 page work *On Human Conduct*, I have been
+able to find 34 instances of what could roughly be called citations.
+In fact, not one of them would pass muster in a freshman university class on
+how to write citations, since not one of them includes the name of the
+publishing company or the place of publication. Meanwhile, the twenty page
+chapter of Voegelin's book *The World of the Polis*, "The Break with the Myth"
+contains thirty references. (2000f, 34-53)
 
 It was only when Luke O'Sullivan began to collect his book reviews, along with
 essays published in various outlets, that it became apparent to those of us
@@ -128,13 +135,6 @@ philosophy, the philosophy of science, the history of science, political
 science, policy proposals, historiography, histories of very specific
 interludes of the past, such as the Chatham administration of the 1760s or
 William of Wykeham, and more.
-
-For example, in the 326 page work *On Human Conduct*, I have been
-able to find 34 instances of what could roughly called citations.
-In fact, not one of them would pass muster in a freshman university class on
-how to write citations, since not one of them includes the name of the
-publishing company or the place of publication. 
-
 
 As we shall see later, Oakeshott wrote a very cogent critique of Max Weber's
 idea that history was done by identifying ideal types appearing in the past and
@@ -155,6 +155,16 @@ plumber. It certainly adds to his virtue as a *human being*, but not to his
 virtue as a figure skater. And so I no way mean to suggest that Voegelin was a
 superior philosopher to Oakeshott, simply because he was also a highly skilled
 scholar, while Oakeshott was not particularly interested in being one. 
+
+Oakeshott himself explained this in his first book:
+
+"My debts, however, are many. If I have often omitted to acknowledge the
+source of my arguments, it is for the double reason that in most cases I have
+forgotten it and that, since there are no 'authorities'
+in philosophy, references of this kind would but promote a groundless trust in
+books and a false attitude of mind. A philosopher is not, as such, a scholar;
+and philosophy, more often than not, has foundered in learning. There is no
+book which is indispensable for the study of philosophy." (1933, 8)
 
 ## My Own Journey with Oakeshott and Voegelin
 
