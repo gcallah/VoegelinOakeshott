@@ -129,6 +129,13 @@ science, policy proposals, historiography, histories of very specific
 interludes of the past, such as the Chatham administration of the 1760s or
 William of Wykeham, and more.
 
+For example, in the 326 page work *On Human Conduct*, I have been
+able to find 34 instances of what could roughly called citations.
+In fact, not one of them would pass muster in a freshman university class on
+how to write citations, since not one of them includes the name of the
+publishing company or the place of publication. 
+
+
 As we shall see later, Oakeshott wrote a very cogent critique of Max Weber's
 idea that history was done by identifying ideal types appearing in the past and
 explaining what happened in terms of those types. But although, as again we
