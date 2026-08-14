@@ -69,6 +69,10 @@
 - Plato (2004) *Gorgias*, eds. Walter Hamilton and Chris Emlyn-Jones,
   Penguin Classics: London.
 
+- Voegelin, Eric (1963) letter to Herr Regierungdirektor of January 15.
+  From the Hoover Institution Archives, photocopied by Luke O'Sullivan and sent
+  to me in private correspondence.
+
 - Voegelin, Eric (1976) letter to Michael Oakeshott of October 27.
   From the Hoover Institution Archives, photocopied by Luke O'Sullivan and sent
   to me in private correspondence.
