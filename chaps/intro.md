@@ -16,16 +16,16 @@ reductionism."
 
 This book is about two twentieth-century thinkers who understood
 philosophy much as did its Greek founders: Michael Oakeshott and Eric
-Voegelin. Although not often thought of primarily as philosophers, but
-more so as political theorists, each of them regarded himself as a
-primarily a philosopher. And I will argue that they largely agree on the
-nature of philosophy.
+Voegelin. Although not often first thought of as philosophers, but
+more often as political thinkers, each regarded himself as a
+a philosopher. And, as I hope to demonstrate, they were important philosopher,
+and philosophes who largely agree on the nature of philosophy.
 
 Nevertheless, that basic agreement is followed by a great divergence: for
 Voegelin, philosophy has vital practical value: following Plato, it is a
 discipline for creating right order in the soul, which is the foundation
 of political order. To the contrary, Oakeshott sees philosophy as
-essentially worthless for guiding practical affairs. This paper will
+essentially worthless for guiding practical affairs. This book will
 also ask from whence arises this parting of the ways, and demonstrate that it
 has significance for the history of liberalism.
 
@@ -53,11 +53,14 @@ guide of rare knowledge and intelligence" (2004: 229). Voegelin
 favorably cites Oakeshott's introduction to *Leviathan* (2000a: 36),
 
 But behind these scant published references, a deeper relationship can be
-discerned. The two men had correspondence, and a few meetings, over a period of
+discerned. The two men corresponded, and had a few meetings, over a period of
 many years.
 
 When Voegelin was based in Munich, he invited Oakeshott to give lectures
-at his institute (Cooper and Bruhn, 2008: 79, 99).
+at his university (Cooper and Bruhn, 2008: 79, 99). He promoted the visit in a
+letter to the administration, referring to Oakeshott as "der angesehenste
+Theoretiker der Politik in England" (the most respected political theorist in
+England) (1963).
 
 In 1973, Oakeshott had writen a "short testimonial" for Voegelin to the
 historian Denis Mack Smith at Oxford, and then wrote to Voegelin to let him
@@ -85,6 +88,7 @@ follow him into regions of understanding which would otherwise have been closed
 to us, asking only that we should consider & reflect. We are all deeply
 indebted to him and are happy to acknowledge the debt." (1982)
 
+<<<<<<< HEAD
 One notable difference between Oakeshott's and Voegelin's intellectual lives are
 in the amount their views changed during their lifetime. Oakeshott arrived at
 his lifelong philosophical view by the age of 30, in *Experience and Its Modes*.
@@ -119,6 +123,55 @@ philosophy, the philosophy of science, the history of science, political
 science, policy proposals, historiography, histories of very specific interludes
 of the past, such as the Chatham administration of the 1760s or William of
 Wykeham, and more.
+=======
+## Some Differences
+
+One notable difference between Oakeshott's and Voegelin's intellectual careers
+is in the degree to which their views changed during their lifetime. Oakeshott
+arrived at the basics of his lifelong philosophical view by his early thirties,
+when he wrote *Experience and Its Modes*. As we shall see, when one reads the
+opening to *On History*, written five decades later, the modality of the past
+is described in a way that would have fit unproblematically into the earlier
+book. In fact, only once does Oakeshott offer any major amendment to what he
+wrote in that first book, when, in "The Voice of Poetry in the Conversation of
+Mankind," he recognizes art as a separate mode from practical experience, as
+well as placing the modes in conversation with each other rather than being
+purely irrelevant to each other. (Since we actually see the latter Development
+beginning to appear even in the 1930s,  I suggest it is plausible that it was
+R.G. Collingwood's review of *Experience in Its Modes* that persuaded Oakshott
+to relax their strict separation.
+
+Of course, Oakeshott was always developing
+new ideas -- as Kenneth Minogue wrote, "Oakeshott recognized every new task as
+a new opportunity to rethink the fundamentals of what he was doing" (Oakeshott
+1993b: viii) -- but most of them fit within the framework of that first book.
+
+Voegelin, on the other hand, changed his mind radically enough that he decided
+to abandon a seven-volume history of political thought that was essentially
+complete and start over from scratch.
+
+Another interesting difference is in their propensity to cite others.
+Both Oakeshott and Voegelin were voracious readers. But while, for Voegelin,
+this is obvious from the citations in his works, one could read every book that
+Oakeshott published during his life and have no idea of how much he had read.
+By way of illustration, in Oakeshott's 326 page work *On Human Conduct*, I have been
+able to find 34 instances of what could roughly be called citations.
+In fact, not one of them would pass muster in a freshman university class on
+how to write citations, since not one of them includes the name of the
+publishing company or the place of publication. Meanwhile, the twenty page
+chapter of Voegelin's book *The World of the Polis*, "The Break with the Myth"
+contains thirty references. (2000f, 34-53)
+
+It was only when Luke O'Sullivan began to collect his book reviews, along with
+essays published in various outlets, that it became apparent to those of us
+only acquainted with him through the earlier books just how much he read. I
+have counted 173 book reviews that have appeared now in one published book or
+another, and I probably have missed some. Oakeshott reviewed books on religion,
+philosophy, the philosophy of science, the history of science, political
+science, policy proposals, historiography, histories of very specific
+interludes of the past, such as the Chatham administration of the 1760s or
+William of Wykeham, and more.
+>>>>>>> 50f0f0e0a25b6a86994c282f00a341d6901f62ea
 
 As we shall see later, Oakeshott wrote a very cogent critique of Max Weber's
 idea that history was done by identifying ideal types appearing in the past and
@@ -128,6 +181,30 @@ anywhere in his critique. Perhaps, you might ask, did he just get the idea from
 somebody else? But there is no reference at all to whom it is that forwards the
 view being critiqued.
 
+<<<<<<< HEAD
+=======
+How could we explain this vast discrepancy in their attitude toward citing
+sources in their work? I think a simplified but not inaccurate explanation
+would be to say that Voegelin was philosopher and a scholar; Oakeshott was a
+philosopher who read widely. And putting it this way, I don't mean to disparage
+either man: If A is a great figure skater as well as a great plumber,
+while B is only a great figure skater, it is ridiculous to declare that A Is
+the better figure skater simply by virtue of the fact that he also is a great
+plumber. It certainly adds to his virtue as a *human being*, but not to his
+virtue as a figure skater. And so I no way mean to suggest that Voegelin was a
+superior philosopher to Oakeshott, simply because he was also a highly skilled
+scholar, while Oakeshott was not particularly interested in being one. 
+
+Oakeshott himself explained this in his first book:
+
+"My debts, however, are many. If I have often omitted to acknowledge the
+source of my arguments, it is for the double reason that in most cases I have
+forgotten it and that, since there are no 'authorities'
+in philosophy, references of this kind would but promote a groundless trust in
+books and a false attitude of mind. A philosopher is not, as such, a scholar;
+and philosophy, more often than not, has foundered in learning. There is no
+book which is indispensable for the study of philosophy." (1933, 8)
+>>>>>>> 50f0f0e0a25b6a86994c282f00a341d6901f62ea
 
 ## My Own Journey with Oakeshott and Voegelin
 

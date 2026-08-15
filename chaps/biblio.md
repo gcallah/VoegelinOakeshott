@@ -69,6 +69,10 @@
 - Plato (2004) *Gorgias*, eds. Walter Hamilton and Chris Emlyn-Jones,
   Penguin Classics: London.
 
+- Voegelin, Eric (1963) letter to Herr Regierungdirektor of January 15.
+  From the Hoover Institution Archives, photocopied by Luke O'Sullivan and sent
+  to me in private correspondence.
+
 - Voegelin, Eric (1976) letter to Michael Oakeshott of October 27.
   From the Hoover Institution Archives, photocopied by Luke O'Sullivan and sent
   to me in private correspondence.
@@ -106,6 +110,10 @@
 
 - Voegelin, Eric (2000e) *Collected Works, Volume 10: Published Essays
   1940-1952*, University of Missouri Press: Columbia.
+
+- Voegelin, Eric (2000f) *Collected Works, Volume 15: Order and History, Volume
+  II: The World of the Polis*,
+  University of Missouri Press: Columbia.
 
 - Voegelin, Eric (2001) *Collected Works, Volume 13: Selected Book
   Reviews*, University of Missouri Press: Columbia and London.
