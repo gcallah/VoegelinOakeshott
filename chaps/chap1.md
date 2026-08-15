@@ -189,3 +189,13 @@ EV: "political philosophers are not much of a cause in history, insofar as any
 direct influence on specific actions is concerned, but their work is effective,
 if at all, through the more subtle means of evocation, rationalizing support, or
 disenchantment." (2000e, 126)
+
+
+## Notes
+
+EV: "philosophical problems of transcendence, which are the key problems of philosophy" (2002, 61).
+
+EV: "Analyzing sensory perceptions implies a transition from the gestalt of the
+perception to its underlying elements. These elements, however, are by
+themselves neither gestalt nor perceptions, but can arise within consciousness
+only as speculative structures..." (2002, 66)

@@ -100,27 +100,33 @@ but most of them fit within the framework of that first book.
 
 Voegelin, on the other hand, altered his ideas enough so that he decided to
 abandon a seven-volume history of political thought that was essentially
-complete and start over from scratch.
+complete and start over from scratch. Voegelin recognized this about himself;
+in discussing his decades-long
+relationship with Alfred Schütz, Voegelin wrote that "Compared to
+Schütz's vigorous advance, my own beginnings were much more hesitant" (2002, 42)
 
-Both Oakeshott and Voegelin were voracious readers. But while, for Voegelin,
-this is obvious from the citations in his works, one could read every book that
-Oakeshott published during his life and have no idea of how much he had read. It
-was only when Luke O'Sullivan began to collect his book reviews, along with
-essays published in various outlets, that it became apparent to those of us only
-acquainted with him through the earlier books just how much he read. I have
-counted 173 book reviews that have appeared now in one published book or another, and
-I probably have missed some. Oakeshott reviewed books on religion, philosophy,
-the philosophy of science, the history of science, political science, policy
-proposals, historiography, histories of very specific interludes of the past,
-such as the Chatham administration of the 1760s or William of Wykeham, and more.
+Another notable difference is in the difficulty a reader has in tracing the
+sources of Oakeshott's ideas versus the ease with which one does so for
+Voegelin.  Both Oakeshott and Voegelin were voracious readers. But while, for
+Voegelin, this is obvious from the citations in his works, one could read every
+book that Oakeshott published during his life and have no idea of how much he
+had read. It was only when Luke O'Sullivan began to collect his book reviews,
+along with essays published in various outlets, that it became apparent to those
+of us only acquainted with him through the earlier books just how much he read.
+I have counted 173 book reviews that have appeared now in one published book or
+another, and I probably have missed some. Oakeshott reviewed books on religion,
+philosophy, the philosophy of science, the history of science, political
+science, policy proposals, historiography, histories of very specific interludes
+of the past, such as the Chatham administration of the 1760s or William of
+Wykeham, and more.
 
- As we shall see later, Oakeshott wrote a very cogent critique of Max Weber's
- idea that history was done by identifying ideal types appearing in the past and
- explaining what happened in terms of those types. But although, as again we
- will see, he clearly knew Weber's work, he does not mention him by name
- anywhere in his critique. Perhaps, you might ask, did he just get the idea from
- somebody else? But there is no reference at all to whom it is that forwards the
- view being critiqued.
+As we shall see later, Oakeshott wrote a very cogent critique of Max Weber's
+idea that history was done by identifying ideal types appearing in the past and
+explaining what happened in terms of those types. But although, as again we
+will see, he clearly knew Weber's work, he does not mention him by name
+anywhere in his critique. Perhaps, you might ask, did he just get the idea from
+somebody else? But there is no reference at all to whom it is that forwards the
+view being critiqued.
 
 
 ## My Own Journey with Oakeshott and Voegelin
@@ -146,9 +152,11 @@ took to Voegelin's ideas, a fact which threatened to derail my thesis, to the
 point where one of my examiners told me, "Your thesis is on Oakeshott: it won't due
 to have half of it being about Voegelin." (I paraphrase!)
 
-In any case, since those initial encounters I returned to the of Oakeshott and
-Voegelin again and again, and always with profit. Even  The 3rd or 4th time
-I've read an essay, I have discovered something new in it. 
+So in one sense, this resembles  the book that I would have written back then,
+if not for the good sense of one of my examiners. Of course, it only *resembles*
+that book, because I hope that my years of encountering and re-encountering both
+Oakeshott and Voegelin since then have resulted in a better book than I could
+have written at that time. 
 
 Bringing the two voices I was hearing in this duet into a satisfactory harmonic
 relationship was often straightforward: they were already in harmony,
@@ -169,11 +177,25 @@ philosophy, history, rationalism, political philosophy, their understanding of a
 selection of other thinkers, their understanding of Thomas Hobbes, and the
 common good.
 
- A requirement, if my effort had any chance at success, was to not "pick" either
- of the two voices and favor it while restraining the other. My job, as I
- understood it, is not to "tout" the superiority of one of these voices over the
- other, but to present each of them with her full range and subtlety, and allow
- the reader, at the least, to enjoy the interplay. 
+A requirement, if my effort had any chance at success, was to not "pick" either
+of the two voices and favor it while restraining the other. My job, as I
+understood it, is not to "tout" the superiority of one of these voices over the
+other, but to present each of them with her full range and subtlety, and allow
+the reader, at the least, to enjoy the interplay. 
+
+
+
+
+## Notes
+
+And of course, everything I have portrayed here as "the views" of Oakeshott and
+Voegelin is actually an abridgment of those views. Such an abridgement is
+unavoidable, unless the contents of one's book consists of only the sentence,
+"Please go read everything that Oakeshott and Voegelin ever wrote." But
+abridgments can be useful: an abridgment is particularly useful in introducing
+someone to a topic that is brand new to them, and there is nothing wrong with
+that, so long as the abridgment never claims to offer a complete understanding
+of the topic it abridges.
 
 
 In Chapter 5, the harmony expands, and Oakeshott and Voegelin's voices play
