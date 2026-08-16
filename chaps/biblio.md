@@ -115,6 +115,10 @@
   II: The World of the Polis*,
   University of Missouri Press: Columbia.
 
+- Voegelin, Eric (2000g) *Collected Works, Volume 18: Order and
+  History, Volume V, In Search of Order*, University of Missouri Press:
+  Columbia.
+
 - Voegelin, Eric (2001) *Collected Works, Volume 13: Selected Book
   Reviews*, University of Missouri Press: Columbia and London.
 

@@ -29,12 +29,17 @@ of ignorance. There would be no existential unrest moving toward the
 quest of the ground unless the unrest was already man's knowledge of
 existence from a ground that he is not himself." (1990a: 273)
 
-## Philosophy Is a Continual Search, Not a Conclusion
+## Philosophy Is an Ongoing Search, Not a Conclusion
 
-Vogelin on zetesis.
+In his first book, *Experience and its Modes*, Oakeshott stressed repeatedly
+that philosophy has no stopping places. 
 
+"Philosophical experience, then, I take to be experience without presupposition,
+reservation, arrest, or modification... The philosopher is simply the victim of
+thought. Again, philosophy seems to be a mood; for we cannot always be engaged
+upon this pursuit of what is finally satisfactory in experience." (1933, 2-3)
 
-Contrary to those who have held that Oakeshott abandoned the understanding of
+Contrary to those [WHO???] who have held that Oakeshott abandoned the understanding of
 philosophy he put forward in *Experience and Its Modes*, we find him
 characterizing  philosophy almost precisely the same way fifteen years later:
 "Philosophical thought and knowledge is simply thought and knowledge without
@@ -44,7 +49,7 @@ is allowed to follow its own bent with unqualified freedom" (1993a, 127).
 In an essay entitled "Political Philosophy," Oakeshott presents us with a vivid
 metaphor for the pursuit of philosophy:
 
-"The Enterprise and Reflection may be likened to ascending a tower liberally
+"The enterprise of reflection may be likened to ascending a tower liberally
 supplied with windows at every level. The world scene from the ground floor is
 the world with which all reflection begins. But as we climb, the scene changes:
 the ascent brings into view what was before invisible, and in each new level a
@@ -69,6 +74,27 @@ Oakeshott:
 "There will always be new philosophy, and what is new is valuable, even if it is
 inferior to what we have already. It is the business of philosophy continuously
 to renew itself." (2007, 113)
+
+We can, recognizing in Voegelin much the same understanding of philosophy as
+we see in Oakshott. In *ANamnesis*, Voegelin characterizes philosophy as "the restless quest
+(zetesis) for the ground of all being" (2002, 346).
+
+In his final work, he writes: 
+
+"The quest for truth, it appears, does not result in a piece of information that
+would have been available at other times and in other situations, or that, when
+found, would be unqualifiedly valid in its specific form for all future times
+and all future situations." (2000???, 38)
+
+And he asserts that it is, as Oakeshott would put it, "without reservation or arrest":
+
+"The questioning wandering through the tensions, does not arrive at an ultimate
+place of rest. None of the single tensions, or any of their poles, is an
+absolute entity given to an external observer; nor will the existentially
+balancing quest come to a rest in itself..." (2000????, 120-121)
+
+
+
 
 ## Philosophizing Is Not About Creating a Doctrine or a System
 
