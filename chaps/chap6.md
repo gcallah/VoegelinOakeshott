@@ -271,3 +271,21 @@ existence of a real *summum bonum*, or is he dispelling the illusion of
 a *summum bonum* that does not exist? (There is a third, Straussian
 possibility: there is no *summum bonum*, but we ought to act as if there
 is: the "noble lie.")
+
+
+On this point, it is worth quoting Elizabeth Corey at length:
+
+"The problem with teleology, for Hobbes and Oakeshott alike, lies in our ability
+to know what our *summum bonum* consists in. While there are any number of goods
+that one might aim at in a more intermediate fashion, postulating a final good
+for man lies beyond the scope of philosophy for both Hobbs and Oakeshot. Is our
+final good the life of pure contemplation? Or is it the life of the religious
+mystic? Or might it be a simple life lived in devotion to one's family? Selfless
+devotion to one's country? Any of these goods is admirable, but they are vastly
+different, and each requires distinct choices and sacrifices. Neither Oakeshot
+nor Hobbs could postulate one of the alternatives as the *summum bonum*, nor
+would either philosopher have found much use in talking abstractly about 'the
+good' without specifying what it is for a concrete human being. Thus they
+conceived of rationality as something other than orienting oneself toward a
+far-off good." (2006, 211)
+

@@ -217,6 +217,11 @@ if at all, through the more subtle means of evocation, rationalizing support, or
 disenchantment." (2000e, 126)
 
 
+Elizabeth Corey wrote, "Voegelin saw philosophy as therapy for a disordered age,
+while Oakeshott saw it as a pursuit that offers us no *direct* guide to
+conduct" (2006, 212).
+
+
 ## Notes
 
 EV: "philosophical problems of transcendence, which are the key problems of philosophy" (2002, 61).
