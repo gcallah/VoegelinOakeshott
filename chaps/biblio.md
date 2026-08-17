@@ -7,6 +7,9 @@
   Urban Planning," *Cosmos + Taxis*, 3(1): 10-19,
   https://cosmosandtaxis.org/wp-content/uploads/2014/11/ct_1_3_callahan_ikeda.pdf.
 
+- Collingwood, R.G. (1934) Review of Michael Oakeshott, *Experience and its
+    Modes*, Cambridge Review, February 16th.
+
 - Cooper, Barry, and Jodi Bruhn (2008) *Voegelin Recollected: Conversations on a Life*,
   University of Missouri Press: Columbia.
 

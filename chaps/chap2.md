@@ -1,5 +1,13 @@
 # II. History
 
+From his first book to his last, Oakeshott was concerned with the nature of
+history. 
+
+Philosopher and historian R.G. Collingwood, reviewing *Experience and Its
+Modes*, wrote: "I can, in this brief notice, only say that it is the most
+penetrating analysis of historical thought that has ever been written..." (1934,
+249)
+
 ## The Past Is an Aspect of the Present
 
 Both Oakeshott and Voegelin understand that the past of experience is the
