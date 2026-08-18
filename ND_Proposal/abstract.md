@@ -6,13 +6,13 @@ New York University
 Dear Editors,
 
 I am pleased to submit for consideration *Oakeshott and Voegelin: The Quest for
-the Common Good*, a book-length comparative study of two of the most important
-and distinctive political philosophers of the twentieth century, Michael
+the Common Good*, a book-length comparative study of two of the most
+distinctive political philosophers of the twentieth century, Michael
 Oakeshott and Eric Voegelin.
 
 The book begins from a simple observation: although Oakeshott and
 Voegelin are usually encountered as political theorists, both understood
-themselves fundamentally as philosophers, and both understood philosophy in a
+themselves to be philosophers, and both understood philosophy in a
 broadly classical sense as an open-ended quest for understanding rather than the
 construction of a closed intellectual system. Yet the two thinkers drew
 strikingly different conclusions about what philosophy means for human conduct
@@ -25,12 +25,12 @@ practical conduct and becomes distorted when it attempts to do so.
 
 The central argument of the book is that this divergence can be understood most
 clearly through the two thinkers' contrasting interpretations of Thomas Hobbes.
-Hobbes is not simply another figure whom both thinkers happened to discuss. He
+Hobbes is not simply another figure whom both of them happened to discuss. He
 represents a fork in the road. Voegelin regarded Hobbes as a decisive
 representative of modernity's movement away from the classical and Christian
 understanding of transcendence and the *summum bonum*. Oakeshott, while fully
 aware of Hobbes's revolutionary character, regarded him as a thinker whose work
-could help disentangle Christianity and political life from an overambitious
+could help disentangle Christianity and political life from a
 teleological conception of politics. The different meanings Oakeshott and
 Voegelin assign to Hobbes consequently illuminate their different understandings
 of liberalism, political philosophy, and the common good.
@@ -43,7 +43,7 @@ political order can sustain itself without some conception of a substantive
 human good. The book also argues that the disagreement should not be overstated.
 Oakeshott and Voegelin share a strikingly similar understanding of experience,
 philosophy, historical consciousness, ideology, and the dangers of intellectual
-systems that claim to master reality. Their differences become most
+systems that claim to master reality. Their differences are
 consequential precisely because in many ways they are so close.
 
 The project builds on my previous work on Oakeshott and Voegelin. I am the
@@ -77,19 +77,21 @@ students of political philosophy, political theory, intellectual history,
 liberalism, conservatism, philosophy of history, and the relationship between
 religion and politics. It should also reach readers concerned with the
 contemporary question of whether democratic and liberal institutions can survive
-without an underlying account of the human good. That question gives the book a
+without an underlying account of the common good. That question gives the book a
 natural connection to contemporary debates about democratic governance and the
 social foundations of political order. In particular, there has been a flurry of
 activity debating the idea of the common good of late, some of it prompted by
 Vice President J.D. Vance's use of the term.
 
-I am a member of The Michael Oakeshott Association, The British Idealist
-Association, The Academy of Philosophy and Letters, and The Ciceronian Society,
-And regularly attend conferences of all of those groups.
-In addition, I am an associate of the Center for American Civic Leadership and
-Public Discourse at the University of South Carolina. I can promote my book
-through all those venues.
+I am a member of The Michael Oakeshott Association, British Idealist
+Specialty Group of the British PSA, The Academy of Philosophy and Letters,
+and The Ciceronian Society, and I regularly attend conferences of all of those
+groups. In addition, I am an associate of the Center for American Civic
+Leadership and Public Discourse at the University of South Carolina and a
+participant in the NYU Colloquium on Market Institutions and Economic Processes.
+I can promote my book through all of those venues.
 
+I have included the introduction as a sample chapter.
 
 Thank you for considering the proposal.
 
