@@ -266,8 +266,48 @@ understood as dogmatic metaphysics: "Authentic Thomism is not a closed
 system; it is a wisdom that is essentially open and without frontiers by
 the very fact that it is a doctrine in movement and vital development."
 
+
+## The Summum Bonum
+
 In any case, the essential question becomes this: is Hobbes denying the
 existence of a real *summum bonum*, or is he dispelling the illusion of
 a *summum bonum* that does not exist? (There is a third, Straussian
 possibility: there is no *summum bonum*, but we ought to act as if there
 is: the "noble lie.")
+
+
+On this point, it is worth quoting Elizabeth Corey at length:
+
+"The problem with teleology, for Hobbes and Oakeshott alike, lies in our ability
+to know what our *summum bonum* consists in. While there are any number of goods
+that one might aim at in a more intermediate fashion, postulating a final good
+for man lies beyond the scope of philosophy for both Hobbs and Oakeshot. Is our
+final good the life of pure contemplation? Or is it the life of the religious
+mystic? Or might it be a simple life lived in devotion to one's family? Selfless
+devotion to one's country? Any of these goods is admirable, but they are vastly
+different, and each requires distinct choices and sacrifices. Neither Oakeshot
+nor Hobbs could postulate one of the alternatives as the *summum bonum*, nor
+would either philosopher have found much use in talking abstractly about 'the
+good' without specifying what it is for a concrete human being. Thus they
+conceived of rationality as something other than orienting oneself toward a
+far-off good." (2006, 211)
+
+Voegelin never responded to this aspect of Oakeshott's work, but we can imagine
+the direction such a response might take. First of all, he could point out that
+a societal orientation towards the *summum bonum* simply does not imply that
+everyone should live the same life. perhaps we could take medieval Christendom
+as an instance of a society oriented that way. There was no suggestion there
+that everyone should become a monk, or a knight, or a peasant, or a cobbler or
+blacksmith, etc. Everyone should find their place in the great chain of being,
+and those places would be the ones most suitable to that person as an
+individual.
+
+Secondly, Voegelin would possibly point out that without such an orientation
+towards the good, there is no basis on which to judge whether one person is
+interfering with another's plans without warrant, or the first person is
+properly preventing the second  from doing something damaging to the common
+good. Is it OK for Aqualung* to share pornography with the young children he sees
+walking by his park bench? Most people would be shocked by the idea that this is
+okay, but perhaps neither party was complaining. Who are they to interfere with
+Aqualung's plans? It is only through some conception of the common good that we
+can differentiate legitimate interference from unwarranted busybodying.

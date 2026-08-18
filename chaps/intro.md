@@ -90,35 +90,49 @@ indebted to him and are happy to acknowledge the debt." (1982)
 
 ## Some Differences
 
-One notable difference between Oakeshott's and Voegelin's intellectual careers
-is in the degree to which their views changed during their lifetime. Oakeshott
-arrived at the basics of his lifelong philosophical view by his early thirties,
-when he wrote *Experience and Its Modes*. As we shall see, when one reads the
-opening to *On History*, written five decades later, the modality of the past
-is described in a way that would have fit unproblematically into the earlier
-book. In fact, only once does Oakeshott offer any major amendment to what he
-wrote in that first book, when, in "The Voice of Poetry in the Conversation of
-Mankind," he recognizes art as a separate mode from practical experience, as
-well as placing the modes in conversation with each other rather than being
-purely irrelevant to each other. (Since we actually see the latter Development
-beginning to appear even in the 1930s,  I suggest it is plausible that it was
-R.G. Collingwood's review of *Experience in Its Modes* that persuaded Oakshott
-to relax their strict separation.
+One notable difference between Oakeshott's intellectual career and that of 
+Voegelin is in the degree that each of their views changed during their lifetime.
+Oakeshott arrived at his lifelong philosophical view by the age of 30, in
+*Experience and Its Modes*.  As we shall see, when one reads the opening to *On
+History*, written five decades later, the modality of the past is described in
+a way that would have fit right into the earlier book. In fact, only once does
+Oakeshott offer any major amendment to what he wrote in that first book, when,
+in "The Voice of Poetry in the Conversation of Mankind," he recognizes art as a
+separate mode from practical experience, and puts the modes in conversation
+with each other, rather than being completely irrelevant to each other.
 
-Of course, Oakeshott was always developing
-new ideas -- as Kenneth Minogue wrote, "Oakeshott recognized every new task as
-a new opportunity to rethink the fundamentals of what he was doing" (Oakeshott
-1993b: viii) -- but most of them fit within the framework of that first book.
+Of course, he was always developing new ideas -- as Kenneth Minogue wrote,
+"Oakeshott recognized every new task as a new opportunity to rethink the
+fundamentals of what he was doing" (Oakeshott 1993b: viii) -- but most of them
+fit within the framework of that first book.
 
-Voegelin, on the other hand, changed his mind radically enough that he decided
-to abandon a seven-volume history of political thought that was essentially
-complete and start over from scratch.
+Voegelin, on the other hand, altered his fundamental ideas enough that he
+decided to abandon a seven-volume history of political thought that was
+essentially complete and start over from scratch, with the work that would
+become *Order and History*. Voegelin recognized this
+about himself; in discussing his decades-long relationship with Alfred Schütz,
+Voegelin wrote that "Compared to Schütz's vigorous advance, my own beginnings
+were much more hesitant" (2002, 42)
 
-Another interesting difference is in their propensity to cite others.
-Both Oakeshott and Voegelin were voracious readers. But while, for Voegelin,
-this is obvious from the citations in his works, one could read every book that
-Oakeshott published during his life and have no idea of how much he had read.
-By way of illustration, in Oakeshott's 326 page work *On Human Conduct*, I have been
+Another notable difference is in the difficulty a reader has in tracing the
+sources of Oakeshott's ideas versus the ease with which one does so for
+Voegelin. Both Oakeshott and Voegelin were voracious readers. But while for
+Voegelin this is obvious from the citations in his works, one could read every
+book that Oakeshott published during his life and have no idea of how much he
+had read.
+
+It was only when Luke O'Sullivan began to collect his book reviews,
+along with essays published in various outlets, that it became apparent to those
+of us only acquainted with him through the earlier books just how much he read.
+I have counted 173 book reviews that have appeared now in one published book or
+another, and I probably have missed some. Oakeshott reviewed books on religion,
+philosophy, the philosophy of science, the history of science, political
+science, policy proposals, historiography, histories of very specific interludes
+of the past, such as the Chatham administration of the 1760s or William of
+Wykeham, and more.
+
+By way of illustrating the difference in their propensity to cite,
+in Oakeshott's 326 page work *On Human Conduct*, I have been
 able to find 34 instances of what could roughly be called citations.
 In fact, not one of them would pass muster in a freshman university class on
 how to write citations, since not one of them includes the name of the
@@ -126,29 +140,18 @@ publishing company or the place of publication. Meanwhile, the twenty page
 chapter of Voegelin's book *The World of the Polis*, "The Break with the Myth"
 contains thirty references. (2000f, 34-53)
 
-It was only when Luke O'Sullivan began to collect his book reviews, along with
-essays published in various outlets, that it became apparent to those of us
-only acquainted with him through the earlier books just how much he read. I
-have counted 173 book reviews that have appeared now in one published book or
-another, and I probably have missed some. Oakeshott reviewed books on religion,
-philosophy, the philosophy of science, the history of science, political
-science, policy proposals, historiography, histories of very specific
-interludes of the past, such as the Chatham administration of the 1760s or
-William of Wykeham, and more.
-
 As we shall see later, Oakeshott wrote a very cogent critique of Max Weber's
 idea that history was done by identifying ideal types appearing in the past and
-explaining what happened in terms of those types. But although, as again we
-will see, he clearly knew Weber's work, he does not mention him by name
-anywhere in his critique. Perhaps, you might ask, did he just get the idea from
-somebody else? But there is no reference at all to whom it is that forwards the
-view being critiqued.
+explaining what went on in terms of those types. But although he clearly knew
+Weber's work, he does not mention him by name anywhere in this critique.
+Perhaps, you might ask, did he simply find the idea in someone else's work? But
+there is no reference at all to whom it is that holds the view being critiqued.
 
 How could we explain this vast discrepancy in their attitude toward citing
 sources in their work? I think a simplified but not inaccurate explanation
-would be to say that Voegelin was philosopher and a scholar; Oakeshott was a
-philosopher who read widely. And putting it this way, I don't mean to disparage
-either man: If A is a great figure skater as well as a great plumber,
+would be to say that Voegelin was philosopher *and* a scholar, while Oakeshott was a
+philosopher who happened to have read widely. Putting it this wayis not meant to disparage
+Oakeshott: If A is a great figure skater as well as a great plumber,
 while B is only a great figure skater, it is ridiculous to declare that A Is
 the better figure skater simply by virtue of the fact that he also is a great
 plumber. It certainly adds to his virtue as a *human being*, but not to his
@@ -156,7 +159,7 @@ virtue as a figure skater. And so I no way mean to suggest that Voegelin was a
 superior philosopher to Oakeshott, simply because he was also a highly skilled
 scholar, while Oakeshott was not particularly interested in being one. 
 
-Oakeshott himself explained this in his first book:
+In fact, Oakeshott himself explained as much in his first book:
 
 "My debts, however, are many. If I have often omitted to acknowledge the
 source of my arguments, it is for the double reason that in most cases I have
@@ -189,9 +192,23 @@ took to Voegelin's ideas, a fact which threatened to derail my thesis, to the
 point where one of my examiners told me, "Your thesis is on Oakeshott: it won't due
 to have a quarter of it being about Voegelin." (I paraphrase!)
 
-In any case, since those initial encounters I have often returned to the of Oakeshott and
-Voegelin, and always with profit. Even  The 3rd or 4th time
-I've read an essay, I have discovered something new in it. 
+In any case, since those initial encounters I have often returned to the work of
+Oakeshott and Voegelin, and always with profit. Even the third or fourth time I've
+read an essay, I have discovered something new in it. 
+
+So in one sense, this resembles the book that I would have written back then,
+if not for the good sense of one of my examiners. Of course, it only *resembles*
+that book, because I hope that my years of encountering and re-encountering both
+Oakeshott and Voegelin since then have resulted in a better book than I could
+have written at that time. 
+
+## The Aim of This Book
+
+What I have attempted to compose here is a duet; the
+voices of Oakeshott and Voegelin proceed in counterpoint, playing around one
+motif after another: philosophy, history, rationalism, gnosticism, politics,
+their relationship to a group of other voices, their understanding of
+Thomas Hobbes, and the common good.
 
 Bringing the two voices I was hearing in this duet into a satisfactory harmonic
 relationship was often straightforward: they were already in harmony,
@@ -199,24 +216,31 @@ if one just transposed one of their voices into the key of the other.
 
 But occasionally there were passages where the harmony was difficult to
 imagine, and the sounded by each of the voices seemed inherently discordant,
-such practical relevance of philosophy.
-
-## The Aim of This Book
-
-
-Exploring the presence of those dissonances within that larger harmony
-is the aim of this book. 
-What I have attempted to compose here is a duet; the voices of Oakeshott and
-Voegelin proceed in counterpoint, playing around one motif after another:
-philosophy, history, rationalism, political philosophy, their understanding of a
-selection of other thinkers, their understanding of Thomas Hobbes, and the
-common good.
+such as the practical relevance of philosophy. Exploring the presence of those
+dissonances within that larger harmony is the aim of this book.
 
 A requirement, if my effort had any chance at success, was to not "pick" either
 of the two voices and favor it while restraining the other. My job, as I
 understood it, is not to "tout" the superiority of one of these voices over the
-other, but to present each of them with her full range and subtlety, and allow
-the reader, at the least, to enjoy the interplay. 
+other, but to present each of them with their full range and subtlety, and allow
+the reader, at the least, to enjoy the interplay, and perhaps to gain some
+enlightenment from it.
+
+
+
+## Notes
+
+*** Perhaps to be included in the final draft ***
+
+
+And of course, everything I have portrayed here as "the views" of Oakeshott and
+Voegelin is actually an abridgment of those views. Such an abridgement is
+unavoidable, unless the contents of one's book consists of only the sentence,
+"Please go read everything that Oakeshott and Voegelin ever wrote." But
+abridgments can be useful: an abridgment is particularly useful in introducing
+someone to a topic that is brand new to them, and there is nothing wrong with
+that, so long as the abridgment never claims to offer a complete understanding
+of the topic it abridges.
 
 
 In Chapter 5, the harmony expands, and Oakeshott and Voegelin's voices play
@@ -224,10 +248,6 @@ against those of a dozen other significant thinkers whom both of them addressed
 at some point. 
 
 
-
-Did Oakeshot or Voegelin ever used the phrase "common good". 
-
-So it might seem strange to give this book the subtitle that it has. 
 
 There's an interesting debate going on at present about whether such a thing as
 the common good exists, and if it does exist, what it consists of, and what the
@@ -239,3 +259,5 @@ attracting people interested in that debate, this book might show them two
 profound ways to understand the idea of a common good. 
 
 
+Include an aside about Voegelin with a 200 page textbook on the history of
+political thought.

@@ -10,8 +10,14 @@
   Urban Planning," *Cosmos + Taxis*, 3(1): 10-19,
   https://cosmosandtaxis.org/wp-content/uploads/2014/11/ct_1_3_callahan_ikeda.pdf.
 
+- Collingwood, R.G. (1934) Review of Michael Oakeshott, *Experience and its
+    Modes*, *Cambridge Review*, February 16th.
+
 - Cooper, Barry, and Jodi Bruhn (2008) *Voegelin Recollected: Conversations on a Life*,
   University of Missouri Press: Columbia.
+
+- Corey, Elizabeth Campbell (2006) *Michael Oakeshott on Religion, Aesthetics,
+    and Politics*, University of Missouri Press: Columbia and London.
 
 - Fuller, Timothy (2018) "Liberalism and the Prospect of Rational Order in
   Hobbes’s Political Philosophy and the Responses of Oakeshott, Strauss and
@@ -115,11 +121,18 @@
   1940-1952*, University of Missouri Press: Columbia.
 
 - Voegelin, Eric (2000f) *Collected Works, Volume 15: Order and History, Volume
-  II: The World of the Polis*,
-  University of Missouri Press: Columbia.
+  II: The World of the Polis*, University of Missouri Press: Columbia.
+
+- Voegelin, Eric (2000g) *Collected Works, Volume 18: Order and
+  History, Volume V, In Search of Order*, University of Missouri Press:
+  Columbia.
 
 - Voegelin, Eric (2001) *Collected Works, Volume 13: Selected Book
   Reviews*, University of Missouri Press: Columbia and London.
+
+- Voegelin, Eric (2002) *Collected Works, Volume 6: Anamnesis:
+  On the Theory of History and Politics*, University of Missouri Press: Columbia
+  and London.
 
 - Voegelin, Eric (2006) *Collected Works, Volume 34: Autobiographical
   Reflections, Revised Edition, with a Voegelin Glossary and Cumulative Index*,
