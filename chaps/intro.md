@@ -176,8 +176,8 @@ enamoured, so much so that, very soon thereafter, I bought a ticket to London
 to attend the inaugral conference of the Michael Oakshott Association, despite
 being unfamiliar with anyone involved in the organization. Aided by the rise of
 online booksellers, I was soon able to purchase most of the books he had
-written, and a couple of years later, I began my PHD studies, focusing on his
-work.
+written, and a couple of years later, I began my Ph.D. studies, focusing on his
+evaluation of Rome and the United States. (See Callahan, 2013.)
 
 While I was writing my thesis, my advisor,
 David Boucher, told me that Oakeshott had advised him to "look into the work of
@@ -187,36 +187,36 @@ Collingwood in particular, I imagined he was doing his best to complete the
 task Oakeshott had assigned to him by passing it on to me. I also immediately
 took to Voegelin's ideas, a fact which threatened to derail my thesis, to the
 point where one of my examiners told me, "Your thesis is on Oakeshott: it won't due
-to have half of it being about Voegelin." (I paraphrase!)
+to have a quarter of it being about Voegelin." (I paraphrase!)
 
-In any case, since those initial encounters I returned to the of Oakeshott and
-Voegelin again and again, and always with profit. Even  The 3rd or 4th time
+In any case, since those initial encounters I have often returned to the of Oakeshott and
+Voegelin, and always with profit. Even  The 3rd or 4th time
 I've read an essay, I have discovered something new in it. 
 
 Bringing the two voices I was hearing in this duet into a satisfactory harmonic
 relationship was often straightforward: they were already in harmony,
-if one just understood how to transpose one of their voices into the key of the
-other one. 
+if one just transposed one of their voices into the key of the other. 
 
 But occasionally there were passages where the harmony was difficult to
-imagine, and the sounded by each of the voices seemed inherently discordant.
-Exploring the presence of those dissonances within that larger harmonic structure
-is the aim of this book. 
+imagine, and the sounded by each of the voices seemed inherently discordant,
+such practical relevance of philosophy.
 
 ## The Aim of This Book
 
 
+Exploring the presence of those dissonances within that larger harmony
+is the aim of this book. 
 What I have attempted to compose here is a duet; the voices of Oakeshott and
-Voegelin proceed in counterpoint, centered around one theme after another:
+Voegelin proceed in counterpoint, playing around one motif after another:
 philosophy, history, rationalism, political philosophy, their understanding of a
 selection of other thinkers, their understanding of Thomas Hobbes, and the
 common good.
 
- A requirement, if my effort had any chance at success, was to not "pick" either
- of the two voices and favor it while restraining the other. My job, as I
- understood it, is not to "tout" the superiority of one of these voices over the
- other, but to present each of them with her full range and subtlety, and allow
- the reader, at the least, to enjoy the interplay. 
+A requirement, if my effort had any chance at success, was to not "pick" either
+of the two voices and favor it while restraining the other. My job, as I
+understood it, is not to "tout" the superiority of one of these voices over the
+other, but to present each of them with her full range and subtlety, and allow
+the reader, at the least, to enjoy the interplay. 
 
 
 In Chapter 5, the harmony expands, and Oakeshott and Voegelin's voices play
