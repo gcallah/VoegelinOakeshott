@@ -188,6 +188,16 @@ any of the others. For example, no chemical analysis of the rug can ever take
 the place of an historical investigation of the rug as a piece of evidence in
 composing an historical account  of the culture which produced it
 
+[BRIDGE NEEDED]
+
+Some authors, failing to understand the connection between *Experience and Its
+Modes* and Oakeshott's later work, actually wish to dismiss the book as some
+youthful aberration and treat his work from the 1950s on as though it were
+written by Oakeshott 2.0. (See, for instance, Gerencser 2000.) To do so ignores
+the fact that Oakeshott begins his essay "The Voice of Poetry in the
+Conversation of Mankind" with a statement that the real world is a world of
+experience, or that he opens his last book published in his lifetime, On
+History, by discussing the different modalities in which we can view the past.
 
 
 ## The Relation of Philosophy and Practical Life and Other Modes
