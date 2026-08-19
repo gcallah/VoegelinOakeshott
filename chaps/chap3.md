@@ -11,7 +11,7 @@ the two of them are clearly dealing with related phenomena when they enter this
 thought complex. 
 
 
-## Oakeshott on Rationalism
+## Rationalism
 
 Oakeshott's critique of rationalism logically follows the understanding of
 modality he adopts in his first book. If you recall, he comprehends the world of
@@ -49,7 +49,7 @@ intuitive level, most of us understand this distinction: thus we get the popular
 character of the brilliant theorist who lacks all common sense, and appears in
 TV shows like "The Big Bang Theory." James Mill famously tried to raise his son
 John Stuart according to a theory he had about children, leading to his son's
-nervous breakdown at the age of twenty. As Michael Polanyi famously demonstrated
+nervous breakdown at the age of twenty. As Michael Polanyi demonstrated
 in his book *Personal Knowledge* (1974), the practice of science itself is not a
 theoretical matter. The attempt to make it so by outlining something like "the
 five steps of the scientific method," as they do in high school textbooks, will
@@ -57,24 +57,25 @@ never produce good scientists: becoming an excellent scientist requires
 apprenticeship with someone who already is one, which is why PhD programs with a
 supervisor are necessary.
 
-As Oakeshot noted, in many fields, the result of trying to perform some
+As Oakeshott noted, in many fields, the result of trying to perform some
 practical task with merely theoretical knowledge of the area produces bad
 results so immediately that the problem is obvious. You do not want to find out
 that someone with merely theoretical knowledge of aviation is the pilot on your
 next transatlantic flight. But politics is different, in that the inept practice
-of someone with only a theoretical understanding of politics may only produce
-bad results months or years down the road. If a city planner designs "rational"
+of someone with only a theoretical understanding of politics may not produce
+bad results for many months or years. If a city planner designs "rational"
 housing projects that in fact will be crime-ridden and awful to live in, years
-may pass between the initial plan and the result. that means that any number of
+may pass between the initial plan and the result. That means that any number of
 other things will go on in the meantime, such as changes in policing, shifts in
 population, changes in economic conditions, and so forth, and the planner can
-always blame those changes for the poor outcome.
+always blame those changes for the poor outcome. Or perhaps the plan was just
+not rational enough, and the planner can try again!
 
 
 
 
 
-## Voegelin on Rationalism
+
 
 
 
@@ -94,3 +95,12 @@ science on principle" (2000c, 92).
 that sense an element of transcendentalism; and it may try to avoid a rupture
 with the church as a social institution, but the ideas of man and community have
 become essentially secularized." (2000e, 37)
+
+
+## Gnosticism
+
+
+
+## Scientism
+
+
