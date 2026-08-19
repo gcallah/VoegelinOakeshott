@@ -34,8 +34,8 @@ astronomy can confirm that fact.
 
 In Experience and its Modes, Oakeshott held that any attempt to hold dialogue
 between these modes simply introduced irrelevancy into the conversation. But in
-"the voice of poetry in the conversation of mankind," he made the dividing
-membranes between the modes more porous, so that science and practice could be
+"The Voice of Poetry in the Conversation of Mankind," he made the membranes dividing
+the modes more porous, so that science and practice could be
 in conversation with each other. However, he still held that it was a grave
 mistake for science to think it could dictate practice, or for practice to
 dictate science.
