@@ -50,7 +50,7 @@ character of the brilliant theorist who lacks all common sense, and appears in
 TV shows like "The Big Bang Theory." James Mill famously tried to raise his son
 John Stuart according to a theory he had about children, leading to his son's
 nervous breakdown at the age of twenty. As Michael Polanyi famously demonstrated
-in his book *Personal Knowledge*, the practice of science itself is not a
+in his book *Personal Knowledge* (1974), the practice of science itself is not a
 theoretical matter. The attempt to make it so by outlining something like "the
 five steps of the scientific method," as they do in high school textbooks, will
 never produce good scientists: becoming an excellent scientist requires

@@ -78,6 +78,9 @@
 - Plato (2004) *Gorgias*, eds. Walter Hamilton and Chris Emlyn-Jones,
   Penguin Classics: London.
 
+- Polanyi, Michael (1974) *Personal Knowledge: Towards a Post-Critical Philosophy*, University of
+  Chicago Press: Chicago and London.
+
 - Voegelin, Eric (1963) letter to Herr Regierungdirektor of January 15.
   From the Hoover Institution Archives, photocopied by Luke O'Sullivan and sent
   to me in private correspondence.
