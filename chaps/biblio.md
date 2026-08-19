@@ -3,6 +3,9 @@
 - Callahan, Gene (2007) "Ideal Types and the Historical Method," *Collingwood and
     British Idealism Studies*, 13(1): 53-68.
 
+- Callahan, Gene (2013) *Oakeshott on Rome and America*, Imprint Academic:
+  Exeter.
+
 - Callahan, Gene and Sanford Ikeda (2014) "Jane Jacobs' Critique of Rationalism in
   Urban Planning," *Cosmos + Taxis*, 3(1): 10-19,
   https://cosmosandtaxis.org/wp-content/uploads/2014/11/ct_1_3_callahan_ikeda.pdf.
@@ -118,7 +121,7 @@
   1940-1952*, University of Missouri Press: Columbia.
 
 - Voegelin, Eric (2000f) *Collected Works, Volume 15: Order and History, Volume
-- II: The World of the Polis*, University of Missouri Press: Columbia.
+  II: The World of the Polis*, University of Missouri Press: Columbia.
 
 - Voegelin, Eric (2000g) *Collected Works, Volume 18: Order and
   History, Volume V, In Search of Order*, University of Missouri Press:

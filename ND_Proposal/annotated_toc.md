@@ -5,7 +5,7 @@
 The introduction establishes the central puzzle: Oakeshott and Voegelin shared a
 classical conception of philosophy as an open-ended search for understanding,
 yet they sharply disagreed about philosophy's practical significance. It
-introduces the author's "duet" metaphor: the book will allow the two thinkers to
+introduces my "duet" metaphor: the book will allow the two thinkers to
 speak in counterpoint rather than selecting one as the victor. The introduction
 also establishes their parallel intellectual biographies and the author's own
 path from studying Oakeshott to discovering Voegelin. 
@@ -44,7 +44,7 @@ philosophy to their political thought.
 
 ## IV. Politics
 
-The fourth chapter moves from philosophy to political philosophy. It
+The fourth chapter moves from philosophy to politics. It
 distinguishes political philosophy from ideology and from the practical question
 of what political actors should do in particular circumstances. Oakeshott's
 distinction among levels of political thought is placed alongside Voegelin's
@@ -71,7 +71,7 @@ interpretations of Thomas Hobbes. Voegelin regards Hobbes as a decisive figure
 in the modern displacement of transcendence and the classical-Christian
 conception of the highest good. Oakeshott regards Hobbes as a far more
 complicated figure whose political philosophy represents a profound
-transformation without simply amounting to the destruction of everything that
+transformation without simply amounting to the rejection of everything that
 preceded it. The chapter argues that their disagreement about Hobbes reveals
 their different understandings of teleology, Christianity, political philosophy,
 and liberalism. 
@@ -80,7 +80,7 @@ and liberalism.
 
 The final substantive chapter asks what the comparison means for the idea of the
 common good. It begins with Oakeshott's account of the "communal interest" and
-then considers Voegelin's stronger conception of order. The chapter argues that
+then considers Voegelin's stronger conception of social order. The chapter argues that
 the apparent opposition between them may conceal a deeper convergence: both
 understand civilization as dependent upon symbolic interpretations of human
 existence rather than institutions alone. The decisive remaining question is
@@ -97,9 +97,8 @@ dangers of political ideologies that promise mastery over history. Their
 disagreement concerns what follows from that insight. For Voegelin, the search
 for order cannot finally be detached from transcendence and the order of the
 soul. For Oakeshott, the attempt to convert philosophical understanding into
-practical direction risks precisely the kind of rationalism that philosophy
-should resist. The conclusion leaves the reader with the book's central
+practical guidance risks reducing philosophy to an aspect of practice.
+The conclusion leaves the reader with the book's central
 contemporary question: whether liberalism possesses a sufficiently rich account
-of the common good to sustain the civilization whose political institutions it
-has inherited. 
+of the common good to sustain the civilization it has inherited. 
 

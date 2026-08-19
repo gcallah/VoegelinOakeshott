@@ -5,7 +5,7 @@
 
 This is perhaps the closest single-author comparison in subject matter. Corey
 examines Oakeshott's religious, aesthetic, and political thought and explicitly
-compares Oakeshott's rationalism with Voegelin's concept of Gnosticism,
+compares Oakeshott's rationalism with Voegelin's concept of gnosticism,
 including their contrasting treatments of Hobbes.
 
 The proposed book differs in scale and purpose: rather than treating Voegelin as
@@ -24,7 +24,7 @@ several twentieth-century critics of rationalism, including Oakeshott and
 Voegelin, and contains Timothy Fuller's treatment of their differing
 interpretations of Hobbes. The proposed book takes the next step: it removes the
 intervening comparative figures and examines the philosophical relationship
-between Oakeshott and Voegelin in sustained depth. 
+between Oakeshott and Voegelin in depth. 
 
 3. Corey Abel and Timothy Fuller, eds., *The Intellectual Legacy of Michael
    Oakeshott* (Imprint Academic, 2005)
@@ -32,7 +32,7 @@ between Oakeshott and Voegelin in sustained depth.
 This collection represents the breadth and continuing scholarly interest of
 Oakeshott studies. Its essays treat Oakeshott's philosophy, political thought,
 Plato, Aristotle, Hobbes, liberalism, and related themes. The proposed book
-would complement this literature by placing Oakeshott within a sustained
+would complement this literature by placing Oakeshott within a 
 comparative argument about twentieth-century political philosophy rather than
 treating his thought in isolation. 
 
@@ -52,8 +52,9 @@ The Market Gap
 The existing literature contains substantial work on Oakeshott, substantial work
 on Voegelin, and comparative studies that place both men alongside other critics
 of rationalism. There is also scholarship explicitly comparing aspects of their
-treatments of rationalism, Gnosticism, and Hobbes. Yet the repository's original
-proposal correctly identifies the absence of a sustained book-length study
-organized around the philosophical relationship between the two thinkers. 
+treatments of rationalism, gnosticism, and Hobbes.
+But there is no book-length study organized around the philosophical
+relationship between the two thinkers. 
 
 That gap is the principal opportunity for the book.
+
