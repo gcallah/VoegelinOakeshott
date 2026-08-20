@@ -20,7 +20,7 @@ efforts to preserve and to change; it is not to prescribe courses of
 action" (2024: 152).
 
 
-## Ideolgy
+## Ideology
 
 In his Harvard lectures, Oakeshott distinguishes three levels of thinking about
 politics. The first level is immediately concerned with the question "What to
@@ -57,7 +57,7 @@ fuzzy guide to practice, such as "democracy," and turn it into a rigid "system" 
 which our political practice must conform.
 
 
-### Liberalism
+## Liberalism
 
 EV: "Liberalism itself changes in the process of history. It changes because it
 is not a body of timelessly valid scientific propositions about political
@@ -94,15 +94,15 @@ without violent disturbances, a condition of everlasting peace. Liberalism too
 is part of the revolutionary movement that lives to the extent it moves."
 (2000a, 89)
 
- Voegelin goes on to analyze the work of Auguste Comte, who, as he shows, could
- be considered a liberal, a revolutionary, and a conservative all at once. He
- wished to completely overthrow existing religions with his new "Religion of
- Humanity." But he wished to propagate this religion through "a conservative
- organization. He wanted a temporal power of industrialists united with the
- spiritual power of intellectuals under the pontificate of Comte" (2000a, 90).
- Voegelin then points out the surprising fact that, "In view of later events,
- one could say that this is the model of an industrial fascism under the
- leadership of a gnostic sect" (2000a, 90).
+Voegelin goes on to analyze the work of Auguste Comte, who, as he shows, could
+be considered a liberal, a revolutionary, and a conservative all at once. He
+wished to completely overthrow existing religions with his new "Religion of
+Humanity." But he wished to propagate this religion through "a conservative
+organization. He wanted a temporal power of industrialists united with the
+spiritual power of intellectuals under the pontificate of Comte" (2000a, 90).
+Voegelin then points out the surprising fact that, "In view of later events,
+one could say that this is the model of an industrial fascism under the
+leadership of a gnostic sect" (2000a, 90).
 
 Comte's contemporary liberals, such as John Stuart Mill, liked the "early"
 Comte, since they appreciated his positivistic attack on metaphysics and
@@ -118,6 +118,50 @@ to open the way for the replacement by "social physics." But "Comte knew,
 however, that an imitation of the methods of natural science in the social
 sciences is no substitute for spiritual order and its theological-metaphysical
 symbolism." (2000a, 91)
+
+
+In his Harvard lectures, Oakeshott analyzes what he calls "the political theory
+of individualism" (1993?, 47-86). We might shorten that designation and say that
+he is analyzing liberalism. (And not in the American sense of politics as
+practiced by the Democratic Party. Political theorists generally view both
+parties in America as liberal in the more classical sense of the word. They
+often designate the Democrats as left-liberals, and the Republicans as
+right-liberals.) I believe Oakeshot uses the longer phrase because he feels it
+more precisely designates the phenomenon he is analyzing.
+
+After analyzing the theories of John Locke, Immanuel Kant, Adam Smith, Edmund
+Burke, Jeremy Bentham, and John Stuart Mill, Oakeshott criticizes these earlier
+theorists of liberalism using Occam's razor.
+
+"I believe it to be a virtue in any theory that it avoids calling upon
+unnecessary hypothesis. If this is so, we are likely to conclude that many of
+the versions of the political theory of individualism are capable of improvement
+in this respect. Writers in this idiom, in order to make their position
+impregnable, have been accustomed to construct a foundation far in excess of
+what is required to carry the superstructure. They have invoked metaphysical
+theories of personality, they have appealed to principles of natural law, they
+have elaborated theories of human nature in general. What they have written in
+this respect is not so much erroneous - indeed, it may all be demonstrably true
+- as unnecessary." (1993?, 83-84)
+
+Oakeshott concludes this analysis by offering us what he thinks is the proper
+way to proceed here:
+
+"In short, the vice of those who have elaborated the historic versions of the
+political theory of individualism is that they have tended to encourage us to
+expect too much from their reflections. The best of the writers in this idiom
+are... those... who have not lost sight of the fact that what they were doing is
+no more than exploring a theory of government appropriate to certain historical
+circumstances." (1993?, 85)
+
+In other words, liberalism needs no "grounding" beyond the fact that modern
+societies consist of a fair number of subjects who enjoy making their own
+personal choices with a minimum of interference from their rulers. For
+Oakeshott, we do not need to stand behind a veil of ignorance, invoke
+metaphysically grounded, inviolable rights, or perform elaborate utilitarian
+calculations to justify liberal governments. We merely need to notice that these
+are often the most appropriate governments for the historical circumstances of
+the places where they exist.
 
 
 ## Notes
