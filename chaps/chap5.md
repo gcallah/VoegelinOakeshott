@@ -200,6 +200,16 @@ events into a doctrine, the escape was an illusion." (1962, 31)
 
 Oakeshott: "Marxism and the Open Mind" (2008, 137-138)
 
+## John Stuart Mill
+
+As Oakeshott notes, the work of John Stuart Mill is deceptive because on the
+surface, he appears to be a defender of individualism. Once one analyzes his
+case for individualism, one realizes that he justifies it as a means, through
+competition of ideas and lifestyles, to arrive at a future perfect state where
+everyone will live in truth and individualism will no longer be necessary. So in
+fact, he is a defender of individualism *for the time being*, in the interest of
+a future collectivism.
+
 
 ## Nietzsche
 
