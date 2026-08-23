@@ -163,6 +163,17 @@ calculations to justify liberal governments. We merely need to notice that these
 are often the most appropriate governments for the historical circumstances of
 the places where they exist.
 
+As John Gray put it:
+
+"[Oakeshott’s] first lesson is that the hubristic project of doctrinal or
+fundamental liberalism—the project attempted by all the liberal thinkers… of
+fixing the boundaries of government action by some principle or doctrine, be it
+laissez-faire, a specification of allegedly natural (but patently con-
+ventional) rights, or a list of basic liberties derived (as in Rawls and
+Dworkin) from a conception of justice rooted only in the fleeting local
+knowledge of the American academic nomenklatura— embodies a mistaken conception
+of philosophy itself” (1996, 41).
+
 
 ## Notes
 
