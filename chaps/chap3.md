@@ -72,6 +72,9 @@ always blame those changes for the poor outcome. Or perhaps the plan was just
 not rational enough, and the planner can try again!
 
 
+In a section entitled "Phronesis," Voegelin writes "What we have here is an
+existential tension that cannot be resolved theoretically, but only in the
+practice of the man who experiences it." (2002, 147)
 
 
 
@@ -79,17 +82,7 @@ not rational enough, and the planner can try again!
 
 
 
-"If the adequacy of a method is not measured by its usefulness to the purpose
-of science, if on the contrary the use of a method is made the criterion of
-science, then the meaning of science as a truthful account of the structure of
-reality, as the theoretical orientation of man in his world, and as the great
-instrument for man's understanding of his own position in the universe is lost."
-(2000c, 91)
-
-
-"The subordination of theoretical relevance to method perverts the meaning of
-science on principle" (2000c, 92).
-
+EV:
 
 "The seventeenth- and eighteenth-century rationalism may still preserve deistic forms, and in
 that sense an element of transcendentalism; and it may try to avoid a rupture
@@ -102,5 +95,18 @@ become essentially secularized." (2000e, 37)
 
 
 ## Scientism
+
+
+EV: 
+"If the adequacy of a method is not measured by its usefulness to the purpose
+of science, if on the contrary the use of a method is made the criterion of
+science, then the meaning of science as a truthful account of the structure of
+reality, as the theoretical orientation of man in his world, and as the great
+instrument for man's understanding of his own position in the universe is lost."
+(2000c, 91)
+
+
+"The subordination of theoretical relevance to method perverts the meaning of
+science on principle" (2000c, 92).
 
 
