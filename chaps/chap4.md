@@ -175,6 +175,13 @@ knowledge of the American academic nomenklatura— embodies a mistaken conceptio
 of philosophy itself” (1996, 41).
 
 
+## Civil Society
+
+Oakeshott from On Human Conduct
+
+Versus the need for substantive representation.
+
+
 ## Notes
 
 
