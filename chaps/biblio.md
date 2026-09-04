@@ -66,8 +66,8 @@
     Harvard Lectures*,
   ed. Shirley Robin Letwin, Yale University Press: New Haven and London.
 
-- Oakeshott, M. (1999?????) *On History and Other Essays*,
-  Liberty Fund: Indianapolis.
+- Oakeshott, M. (1999) *On History and Other Essays*, Liberty Fund:
+  Indianapolis.
 
 - Oakeshott, Michael (2004) *What Is History? and other essays*,
   Imprint Academic: Exeter.
