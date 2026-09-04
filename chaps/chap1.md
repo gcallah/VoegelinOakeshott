@@ -159,26 +159,38 @@ be considerably more radical to match the problems raised by the
 disorder of the age." (1990a: 306)
 
 
-## Reality Is a World of Experience
+## Experience Is the Fundament of Philosophy
 
 
-Voegelin: "There is no other reality than that of which we have experience"
-(1978, 170).
+In the introduction to *Anamnesis*, David Walsh writes that with Voegelin,
+"philosophy has been restored to its origins in experience." (2002, 25)
 
+In a letter to his friend Bob Heilman, Voegelin wrote: "At present, we are faced
+with the problem of getting rid of a considerable heap of dogma – theological,
+metaphysical, and ideological – and to recover the original experiences of man's
+tension toward the divine ground of his existence." (2002, 3)
 
 EV: "Consciousness is the luminous center radiating the concrete order of human
 existence into society and history. A philosophy of politics is empirical – in
 the precise sense of an inquiry into the experiences which penetrate with their
 order the whole area of reality that we expressed by the symbol 'man'." (2002, 34)
 
-The "physical world," which materialists try to treat as fundamental, in fact,
-is an aspect of human consciousness or human experience. It is that aspect of
-our experience which is resistant to persuasion, and must be dealt with instead
-by force. If we desire a human being to get up on top of a stone wall we are
-building, we can ask him nicely. We can tell him good reasons why he should do
-so, or we can even persuade him to do so by threatening him if he won't. But
-none of those methods will work with a rock. If we want a rock to get up on top
-of the stone wall we are building, we must use force to lift it up there.
+Voegelin: "There is no other reality than that of which we have experience"
+(1978, 170).
+
+If anything, Oakeshott's emphasis on experience is even stronger than
+Voegelin's. It is, after all, right in the title of the first book he published.
+
+
+How can a philosophy grounded in experience cope with the existence of the
+physical world? It is by accurately identifying the physical world as an aspect
+of human experience: it is that aspect of our experience which is resistant to
+persuasion, and must be dealt with instead by force. If we desire a human being
+to get up on top of a stone wall we are building, we can ask him nicely. We can
+tell him good reasons why he should do so, or we can even persuade him to do so
+by threatening him if he won't. But none of those methods will work with a rock.
+If we want a rock to get up on top of the stone wall we are building, we must
+use force to lift it up there.
 
 
 
