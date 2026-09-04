@@ -48,6 +48,67 @@ than his date and he did. And an historical understanding of the event would
 demonstrate it comprehensible place within a stream of historical events coming
 before and or after it.
 
+
+## History Understood by Way of Ideal Types
+
+Weber's view appears, for example, in his essay, "The
+Logic of the Cultural Sciences," where he writes: "Even the first step toward an
+historical judgment is thus -- this is to be emphasized -- a process of abstraction....
+Even this first step transforms the given 'reality' into a "mental construct"
+[i.e., an ideal type] in order to make it into historical fact" (1949, 173).
+
+In his first book, Voegelin describes why type concepts fall short of fully
+historical understanding:
+
+"It does not seem useful to treat such a tangled web with short formulas and
+all-encompassing definitions. Setting up categories is intended merely as an
+introduction, to provide a few sketchy hints about a topic that can be fully
+developed only in the analyses themselves. The forms have been given such names
+as open self, intellectualism, and so on, but their significance is defined only
+in their history. Type concepts, a priori categories, and every other form of
+rational method are essentially ill-suited to the adequate description of
+intellectual movements because they are atemporal." (1995, 18)
+
+
+Almost six decades later, Oakeshott similarly points out the atemporality of
+ideal-typical understandings of history, which leaves them shy of being fully
+a fully coherent historical account:
+
+The historian engaged in ideal type analysis "purports to be anatomizing a
+bygone present situational identity in terms of its constituent occurrences. No
+doubt he recognizes himself to be concerned with a passage of time which
+contains genuine change; but his enquiry, centred upon the articulation of a
+situational identity, cannot properly accommodate this recognition" (1999, p.
+65).
+
+
+
+"And further, an engagement to anatomize an historical situation, in specifying
+its duration, recognizes it as an emergence and admits its evanescence; but the
+enquiry is not concerned to abate the mystery of its appearance upon the scene,
+to investigate the mediation of its appearance or to trace the vicissitudes of
+its evanescence. It is concerned only with correctly inferring an intelligible
+structure composed of notionally contemporaneous mutually related constituent
+occurrences" (Oakeshott, 1999: 65-66).
+
+Oakeshott sums up his critique as follows: "These, then, are what I take to be
+the historical defects of an enquiry concerned to infer from record a past
+composed of situational identities: transitory passages of human engagement
+represented as patterned situations composed of mutually related occurrences
+which come and go but are here halted and made to gyrate in a notional interval
+between coming and going" (Oakeshott, 1999: 66). He goes on to suggest the
+solution to the difficulties he has pointed out: "And the remedy for the
+shortcomings of this level of historical understanding is not, I think, in
+doubt. It lies in an enquiry designed to assemble a past, not of anatomized
+situational identities composed of mutually related occurrences, but of
+historical events and conjunctions of historical events" (1999: 67-68).
+
+Because ideal types are timeless Platonic forms, employing them to comprehend a
+process of historical change must necessarily stand to genuine historical
+understanding as looking at a series of snapshots of a ballgame 
+compares to actually following the game in person.
+
+
 ## The Telos of History
 
 

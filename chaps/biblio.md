@@ -66,6 +66,9 @@
     Harvard Lectures*,
   ed. Shirley Robin Letwin, Yale University Press: New Haven and London.
 
+- Oakeshott, M. (1999?????) *On History and Other Essays*,
+  Liberty Fund: Indianapolis.
+
 - Oakeshott, Michael (2004) *What Is History? and other essays*,
   Imprint Academic: Exeter.
 
@@ -99,6 +102,10 @@
 - Voegelin, Eric (1990b) *Collected Works, Volume 28: What Is History?
   and Other Late Unpublished Writings*, Louisiana State University
   Press: Baton Rouge and London.
+
+- Voegelin, Eric (1995) *Collected Works, Volume 1:
+  On the Form of the American Mind*, University of Missouri Press: Columbia
+  and London.
 
 - Voegelin, Eric (2000a) *Collected Works, Volume 11: Published Essays
   1953-1965*, University of Missouri Press: Columbia.
@@ -141,4 +148,5 @@
   Reflections, Revised Edition, with a Voegelin Glossary and Cumulative Index*,
   University of Missouri Press: Columbia and London.
 
-
+- Weber, Max (1949) *The Methodology of the Social Sciences*, New York: The Free
+- Press.
