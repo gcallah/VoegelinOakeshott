@@ -112,6 +112,15 @@ compares to actually following the game in person.
 ## The Telos of History
 
 
+share a rejection of reductive accounts of human experience. Furthermore, they
+both dismissed pretensions by various thinkers, such as Joachim of Fiore, Hegel,
+Comte and Marx, to be able to discern the telos of history from their own,
+necessarily limited, temporal perspective. (A more recent example of the same
+type of historical prophecy was Francis Fukuyama's book *The End of History*; it
+only appeared after each of them had passed away, But it will be used as an
+example to show that this prophetic motive history has not cease to be
+relevant.)
+
 Voegelin:
 "Is [a thinker] really entitled to hold a belief concerning the meaning of
 history, although he perfectly well knows... that the meaning of history, its
