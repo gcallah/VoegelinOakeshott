@@ -1,5 +1,9 @@
 i# Introduction
 
+## What Is This Common Good?
+
+Both EV and MO were concerned with the idea of a common good, and both of them
+
 ## What Is Philosophy?
 
 On my desk as I write these words is a book entitled *Idealism: The History of a
