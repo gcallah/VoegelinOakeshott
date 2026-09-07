@@ -1,4 +1,15 @@
-i# Introduction
+# Introduction
+
+## In Search of the Common Good
+
+This concept of the common good has been a subject of intense discussion of
+late. Postliberal thinkers, such as Patrick Deneen (2018), have argued that liberalism
+has failed to provide a coherent conception of the common good, and that this
+failure has led to the current political and social crises in liberal
+democracies. Another postliberal thinker, Adrian Vermeule, has argued for what
+he calls "common-good constitutionalism" (Vermeule, 2022).
+
+
 
 ## What Is Philosophy?
 

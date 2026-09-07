@@ -1,4 +1,5 @@
-Oakeshott and Voegelin: The Quest for the Common Good
+In Search of the Common Good:
+Michael Oakeshott and Eric Voegelin
 
 Gene Callahan
 New York University

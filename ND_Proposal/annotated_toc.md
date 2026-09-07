@@ -1,6 +1,6 @@
-# Annotated Table of Contents
+# In Search of the Common Good: Annotated Table of Contents
 
-## Introduction — The Philosophers in Counterpoint
+## Introduction
 
 The introduction establishes the central puzzle: Oakeshott and Voegelin shared a
 classical conception of philosophy as an open-ended search for understanding,
@@ -76,7 +76,7 @@ preceded it. The chapter argues that their disagreement about Hobbes reveals
 their different understandings of teleology, Christianity, political philosophy,
 and liberalism. 
 
-## VII. The Quest for the Common Good
+## VII. In Search of the Common Good
 
 The final substantive chapter asks what the comparison means for the idea of the
 common good. It begins with Oakeshott's account of the "communal interest" and
@@ -89,7 +89,7 @@ whether liberalism remains dependent upon classical and Christian sources of
 meaning that it cannot itself reproduce. 
 
 
-## Conclusion — Liberalism and the Foundations of Civilization
+## Conclusion
 
 The conclusion brings the argument together. Oakeshott and Voegelin agree that
 philosophy is a quest rather than a finished system, and both recognize the

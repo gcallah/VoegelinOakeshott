@@ -11,13 +11,16 @@
   https://cosmosandtaxis.org/wp-content/uploads/2014/11/ct_1_3_callahan_ikeda.pdf.
 
 - Collingwood, R.G. (1934) Review of Michael Oakeshott, *Experience and its
-    Modes*, *Cambridge Review*, February 16th.
+  Modes*, *Cambridge Review*, February 16th.
 
 - Cooper, Barry, and Jodi Bruhn (2008) *Voegelin Recollected: Conversations on a Life*,
   University of Missouri Press: Columbia.
 
 - Corey, Elizabeth Campbell (2006) *Michael Oakeshott on Religion, Aesthetics,
-    and Politics*, University of Missouri Press: Columbia and London.
+  and Politics*, University of Missouri Press: Columbia and London.
+
+- Deneen, Patrick J. (2018) *Why Liberalism Failed*, Yale University
+  Press: New Haven.
 
 - Fuller, Timothy (2018) "Liberalism and the Prospect of Rational Order in
   Hobbes’s Political Philosophy and the Responses of Oakeshott, Strauss and
@@ -77,6 +80,9 @@
 
 - Plato (2004) *Gorgias*, eds. Walter Hamilton and Chris Emlyn-Jones,
   Penguin Classics: London.
+
+- Vermeule, Adrian (2022) *Common Good Constitutionalism: Recovering the
+  Classical Legal Tradition*, Polity Press: Cambridge, UK.
 
 - Voegelin, Eric (1963) letter to Herr Regierungdirektor of January 15.
   From the Hoover Institution Archives, photocopied by Luke O'Sullivan and sent
