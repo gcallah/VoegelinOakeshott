@@ -11,6 +11,9 @@ he calls "common-good constitutionalism" (Vermeule, 2022).
 
 
 
+
+Both EV and MO were concerned with the idea of a common good, and both of them
+
 ## What Is Philosophy?
 
 On my desk as I write these words is a book entitled *Idealism: The History of a
@@ -125,7 +128,7 @@ about himself; in discussing his decades-long relationship with Alfred Schütz,
 Voegelin wrote that "Compared to Schütz's vigorous advance, my own beginnings
 were much more hesitant" (2002, 42)
 
-Another notable difference is in the difficulty a reader has in tracing the
+Another salient difference is in the difficulty a reader has in tracing the
 sources of Oakeshott's ideas versus the ease with which one does so for
 Voegelin. Both Oakeshott and Voegelin were voracious readers. But while for
 Voegelin this is obvious from the citations in his works, one could read every
@@ -145,11 +148,11 @@ Wykeham, and more.
 By way of illustrating the difference in their propensity to cite,
 in Oakeshott's 326 page work *On Human Conduct*, I have been
 able to find 34 instances of what could roughly be called citations.
-In fact, not one of them would pass muster in a freshman university class on
-how to write citations, since not one of them includes the name of the
-publishing company or the place of publication. Meanwhile, the twenty page
-chapter of Voegelin's book *The World of the Polis*, "The Break with the Myth"
-contains thirty references. (2000f, 34-53)
+Meanwhile, the twenty page chapter of Voegelin's book *The World of the Polis*,
+"The Break with the Myth" contains thirty references. (2000f, 34-53) In the
+chapter titled "The Humanist's Image of Timur" in *Anamnesis* (2002, 175-223),
+the footnotes are so much more extensive than the text that at times only five
+or six lines of the main body of text can fit on a page.
 
 As we shall see later, Oakeshott wrote a very cogent critique of Max Weber's
 idea that history was done by identifying ideal types appearing in the past and

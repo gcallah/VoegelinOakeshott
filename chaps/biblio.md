@@ -69,6 +69,9 @@
     Harvard Lectures*,
   ed. Shirley Robin Letwin, Yale University Press: New Haven and London.
 
+- Oakeshott, M. (1999) *On History and Other Essays*, Liberty Fund:
+  Indianapolis.
+
 - Oakeshott, Michael (2004) *What Is History? and other essays*,
   Imprint Academic: Exeter.
 
@@ -80,6 +83,9 @@
 
 - Plato (2004) *Gorgias*, eds. Walter Hamilton and Chris Emlyn-Jones,
   Penguin Classics: London.
+
+- Polanyi, Michael (1974) *Personal Knowledge: Towards a Post-Critical Philosophy*, University of
+  Chicago Press: Chicago and London.
 
 - Vermeule, Adrian (2022) *Common Good Constitutionalism: Recovering the
   Classical Legal Tradition*, Polity Press: Cambridge, UK.
@@ -102,6 +108,10 @@
 - Voegelin, Eric (1990b) *Collected Works, Volume 28: What Is History?
   and Other Late Unpublished Writings*, Louisiana State University
   Press: Baton Rouge and London.
+
+- Voegelin, Eric (1995) *Collected Works, Volume 1:
+  On the Form of the American Mind*, University of Missouri Press: Columbia
+  and London.
 
 - Voegelin, Eric (2000a) *Collected Works, Volume 11: Published Essays
   1953-1965*, University of Missouri Press: Columbia.
@@ -144,4 +154,5 @@
   Reflections, Revised Edition, with a Voegelin Glossary and Cumulative Index*,
   University of Missouri Press: Columbia and London.
 
-
+- Weber, Max (1949) *The Methodology of the Social Sciences*, The Free
+  Press: New York.

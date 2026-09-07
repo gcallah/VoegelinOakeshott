@@ -159,10 +159,40 @@ be considerably more radical to match the problems raised by the
 disorder of the age." (1990a: 306)
 
 
-## Reality Is a World of Experience
+## Experience Is the Fundament of Philosophy
 
 
-Voegelin: "There is no other reality than that of which we have experience" (xxxx, 170).
+In the introduction to *Anamnesis*, David Walsh writes that with Voegelin,
+"philosophy has been restored to its origins in experience." (2002, 25)
+
+In a letter to his friend Bob Heilman, Voegelin wrote: "At present, we are faced
+with the problem of getting rid of a considerable heap of dogma – theological,
+metaphysical, and ideological – and to recover the original experiences of man's
+tension toward the divine ground of his existence." (2002, 3)
+
+EV: "Consciousness is the luminous center radiating the concrete order of human
+existence into society and history. A philosophy of politics is empirical – in
+the precise sense of an inquiry into the experiences which penetrate with their
+order the whole area of reality that we expressed by the symbol 'man'." (2002, 34)
+
+Voegelin: "There is no other reality than that of which we have experience"
+(1978, 170).
+
+If anything, Oakeshott's emphasis on experience is even stronger than
+Voegelin's. It is, after all, right in the title of the first book he published.
+
+
+How can a philosophy grounded in experience cope with the existence of the
+physical world? It is by accurately identifying the physical world as an aspect
+of human experience: it is that aspect of our experience which is resistant to
+persuasion, and must be dealt with instead by force. If we desire a human being
+to get up on top of a stone wall we are building, we can ask him nicely. We can
+tell him good reasons why he should do so, or we can even persuade him to do so
+by threatening him if he won't. But none of those methods will work with a rock.
+If we want a rock to get up on top of the stone wall we are building, we must
+use force to lift it up there.
+
+
 
 
 ## Modality
@@ -188,6 +218,16 @@ any of the others. For example, no chemical analysis of the rug can ever take
 the place of an historical investigation of the rug as a piece of evidence in
 composing an historical account  of the culture which produced it
 
+[BRIDGE NEEDED]
+
+Some authors, failing to understand the connection between *Experience and Its
+Modes* and Oakeshott's later work, actually wish to dismiss the book as some
+youthful aberration and treat his work from the 1950s on as though it were
+written by Oakeshott 2.0. (See, for instance, Gerencser 2000.) To do so ignores
+the fact that Oakeshott begins his essay "The Voice of Poetry in the
+Conversation of Mankind" with a statement that the real world is a world of
+experience, or that he opens his last book published in his lifetime, On
+History, by discussing the different modalities in which we can view the past.
 
 
 ## The Relation of Philosophy and Practical Life and Other Modes

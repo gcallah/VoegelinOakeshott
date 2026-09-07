@@ -6,7 +6,7 @@ New York University
 
 Dear Editors,
 
-I am pleased to submit for consideration *Oakeshott and Voegelin: The Quest for
+I am pleased to submit for consideration *Oakeshott and Voegelin: In Search of
 the Common Good*, a book-length comparative study of two of the most
 distinctive political philosophers of the twentieth century, Michael
 Oakeshott and Eric Voegelin.
@@ -26,13 +26,15 @@ practical conduct and becomes distorted when it attempts to do so.
 
 The central argument of the book is that this divergence can be understood most
 clearly through the two thinkers' contrasting interpretations of Thomas Hobbes.
-Hobbes is not simply another figure whom both of them happened to discuss. He
-represents a fork in the road. Voegelin regarded Hobbes as a decisive
-representative of modernity's movement away from the classical and Christian
-understanding of transcendence and the *summum bonum*. Oakeshott, while fully
-aware of Hobbes's revolutionary character, regarded him as a thinker whose work
-could help disentangle Christianity and political life from a
-teleological conception of politics. The different meanings Oakeshott and
+Hobbes represents a fork in their hitherto shared roadway. Voegelin's fork
+treats Hobbes as a significant influence on modernity's turn away from the
+classical and Christian understanding of transcendence and the *summum bonum*.
+Oakeshott's fork, by contrast, treats Hobbes as a
+
+classical and Christian understanding of transcendence and the *summum bonum*.
+Oakeshott, while fully aware of Hobbes's revolutionary character, regarded him
+as a thinker whose work could help disentangle Christianity and political life
+from a teleological conception of politics. The different meanings Oakeshott and
 Voegelin assign to Hobbes consequently illuminate their different understandings
 of liberalism, political philosophy, and the common good.
 
